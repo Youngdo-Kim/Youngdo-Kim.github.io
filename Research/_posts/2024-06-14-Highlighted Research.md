@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlighted Research
+title: Research Portfolio
 ---
 
 <hr style='border : 1.5px solid navy;'>
