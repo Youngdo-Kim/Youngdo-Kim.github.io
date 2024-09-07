@@ -3,7 +3,7 @@ layout: post
 title: Highlighted Research
 ---
 
-<hr style='border : 1.5px solid black;'>
+<hr style='border : 1.5px solid navy;'>
 
 이 페이지는 이상준 교수님과 김형수 교수님께 지도를 받았던 제 연구 발자취를 적어놓았습니다. 제 연구에 대한 더 많은 정보를 위해서는 저에게 feel free to 연락주세요! 저는 흥미로운 아이디어에 대한 토론과 새로운 시각을 환영합니다!
 <!-- Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo). -->
