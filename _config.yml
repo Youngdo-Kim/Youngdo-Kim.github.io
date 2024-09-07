@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Youngdo Kim
+url:                 https://youngdo-kim.github.io/
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Youngdo Kim
+  url:               youngdo-kim.github.io
+  email:             youngdokim@postech.ac.kr
 
 plugins:
   - jekyll-coffeescript
