@@ -16,15 +16,15 @@ Published as a co-author, Journal of Environmental Management (2023/04)
 
 <div class="container">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/Leaf1.jpg" alt="Perilla leaf" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/Leaf1.jpg" alt="Perilla leaf" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">1. Experimental setup</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/Leaf3.gif" alt="Acquired images" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/Leaf3.gif" alt="Acquired images" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">2. Acquired PM images</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/Leaf2.jpeg" alt="Velocity visualization" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/Leaf2.jpeg" alt="Velocity visualization" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">3. Velocity field visulization</figcaption>
   </figure>
 </div>
@@ -44,7 +44,7 @@ Published as a co-author, Scientific Reports (2022/12)
 <br>
 <div class="container">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/smart1.jpeg" alt="Velocity distribution" style="width: auto; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/smart1.jpeg" alt="Velocity distribution" style="width: 200; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">1. Principle of speckle pattern generation</figcaption>
     </figure>
     <div class="text">
@@ -63,22 +63,22 @@ Published as a co-author, Scientific Reports (2022/12)
 
 <div class="container">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/smart2.png" alt="Experimental setup" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/smart2.png" alt="Experimental setup" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">2. Experimental setup</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/smart3.png" alt="Fine PM concentration prediction" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/smart3.png" alt="Fine PM concentration prediction" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">3. Fine PM concentration prediction</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/smart4.png" alt="Coarse PM concentration prediction" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/smart4.png" alt="Coarse PM concentration prediction" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">4. Coarse PM concentration prediction</figcaption>
   </figure>
 </div>
 
 <br><b>Publication:</b> Kim, J., <b>Kim, Y.</b>, Howard, K. J. and Lee, S. J. (2022). Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios. Sci. Rep. 12, 22609. https://doi.org/10.1038/s41598-022-27215-6
 
-<!--
+<!-
 - **To bold text**, use `<strong>`.
 - *To italicize text*, use `<em>`.
 - Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
