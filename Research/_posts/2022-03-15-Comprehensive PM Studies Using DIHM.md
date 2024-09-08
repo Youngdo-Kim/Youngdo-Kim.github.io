@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 <div class="message">
-  환경오염이 심해지면서 particulate matter에 대한 관심과 연구가 점점 커지고 있다. 여기에서는 DIHM을 이용해서 식물에 settling하는 PM의 dynamics를 연구하고 물에 떠다니는 PM의 농도를 측정하는 방법을 개발하였다. 여기서는 공저자로서 실험 셋업 개발이나 formal analysis에 기여하며 DIHM 기술 습득과 AI model을 익히는 유용한 기회였다.
+환경오염이 심해지면서 particulate matter에 대한 관심과 연구가 점점 커지고 있다. 여기에서는 DIHM을 이용해서 식물에 settling하는 PM의 dynamics를 연구하고 물에 떠다니는 PM의 농도를 측정하는 방법을 개발하였다. 여기서는 공저자로서 실험 셋업 개발이나 formal analysis에 기여하며 DIHM 기술 습득과 AI model을 익히는 유용한 기회였다.
 </div>
 
 ## Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
@@ -20,17 +20,17 @@ Published as a co-author, Journal of Environmental Management (2023/04)
     <figcaption style="font-size: 0.9em; color: #555;">1. Experimental setup</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/Leaf3.gif" alt="Acquired images" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/Leaf3.gif" alt="Acquired images" style="width: 150px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">2. Acquired PM images</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/Leaf2.jpeg" alt="Velocity visualization" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/Leaf2.jpeg" alt="Velocity visualization" style="width: 250px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">3. Velocity field visulization</figcaption>
   </figure>
 </div>
 
 나는 leaf위에 낙하하는 PM settling velocity의 reference가 되는 freely falling PM의 velocity를 구했다. PM은 drag와 gravitational force가 평형을 이루며,
-그 공식은 $$V_{s,\text{theor}} = \frac{C_C (\rho_{PM} - \rho_{air}) g D^2}{18 k_s / \mu_{air}}$$ 이다. Through this project, I gained experience in optical setup, imaging, reconstruction, and particle tracking using DIHM.
+그 공식은 <p> $$V_{s,\text{theor}} = \frac{C_C (\rho_{PM} - \rho_{air}) g D^2}{18 k_s / \mu_{air}}$$ </p> 이다. Through this project, I gained experience in optical setup, imaging, reconstruction, and particle tracking using DIHM.
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/Leaf4.jpg" alt="Velocity distribution" style="width: auto; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">4. Settling velocity graph by PM diameter</figcaption>
@@ -42,7 +42,7 @@ Published as a co-author, Journal of Environmental Management (2023/04)
 
 Published as a co-author, Scientific Reports (2022/12)
 <br>
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/smart1.jpeg" alt="Velocity distribution" style="width: 200; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">1. Principle of speckle pattern generation</figcaption>
@@ -61,7 +61,7 @@ Published as a co-author, Scientific Reports (2022/12)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/smart2.png" alt="Experimental setup" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/smart2.png" alt="Experimental setup" style="width: 220px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">2. Experimental setup</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
@@ -76,8 +76,3 @@ Published as a co-author, Scientific Reports (2022/12)
 
 <br><b>Publication:</b> Kim, J., <b>Kim, Y.</b>, Howard, K. J. and Lee, S. J. (2022). Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios. Sci. Rep. 12, 22609. https://doi.org/10.1038/s41598-022-27215-6
 
-
-Want to see something else added? <a href="https://github.com/nicoelayda/celeste/issues/new">Open an issue.</a>
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
--->
