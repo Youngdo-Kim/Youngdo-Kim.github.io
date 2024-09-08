@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To overcome the limitations of DIHM
+title: AI-Driven Enhancements for DIHM
 ---
 
 ### <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of red blood cells using a DIHM</a> 
