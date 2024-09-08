@@ -12,7 +12,17 @@ title: Research Portfolio
 
 ### Exploring Digital In-line Holographic microscopy (DIHM)
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:
+DIHM은 single beam path를 가져서 simple한 optical setup을 가지고 있다. 촬영한 이미지를 angular spectrum method를 통해 numerically reconstruction해서 depth-wise 분석도 가능하다. 이렇게 reconstruction한 image들을
+projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device다.
+
+<div class="container">
+  <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup">
+  <div class="small-images">
+    <img src="/Research/figures/img3.gif" alt="Acquired images">
+    <img src="/Research/figures/img5.gif" alt="Numerical reconstruction">
+  </div>
+</div>
+<!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:-->
 
 * Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and a [sample page]({{ site.baseurl }}/about/))
 * Mobile friendly design and development
