@@ -53,7 +53,7 @@ In addition to the features of Poole, Celeste adds the following:
 <!-- Additional features to follow -->
 <!-- * A blog archives page, to allow easy access to old blog entries -->
 <!-- * Multiple color schemes, accessible via the `@import` directive -->
-<--
+<!--
 Check out the [README](https://github.com/nicoelayda/celeste#readme) for more details.
 
 ### Browser support
