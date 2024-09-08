@@ -18,7 +18,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
 
 <div style="display: flex; align-items: center;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="width: 180px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">Experimental setup</figcaption>
   </figure>
   <div style="display: flex; flex-direction: column;">
@@ -27,7 +27,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
       <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 180px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Numerical reconstruction</figcaption>
     </figure>
   </div>
@@ -37,7 +37,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
       <figcaption style="font-size: 0.9em; color: #555;">Positioning of x,y</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 200px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Depth-wise positioning</figcaption>
     </figure>
   </div>
