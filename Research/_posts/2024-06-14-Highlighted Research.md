@@ -22,7 +22,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
   </figure>
   <div style="display: flex; flex-direction: column;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 130%; height: auto; margin-bottom: 10px;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 140%; height: auto; margin-bottom: 10px;">
       <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
