@@ -17,16 +17,16 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
 
 <div style="display: flex; align-items: center;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 80%; height: auto;">
+    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 70%; height: auto;">
     <figcaption style="font-size: 0.9em; color: #555;">Experimental setup</figcaption>
   </figure>
   <div style="display: flex; flex-direction: column;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 120%; height: auto; margin-bottom: 10px;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 130%; height: auto; margin-bottom: 10px;">
       <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 80%; height: auto;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 70%; height: auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Numerical reconstruction</figcaption>
     </figure>
   </div>
