@@ -16,10 +16,10 @@ DIHM은 single beam path를 가져서 simple한 optical setup을 가지고 있�
 projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device다.
 
 <div class="container">
-  <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup">
+  <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 30%; height: auto;">
   <div class="small-images">
-    <img src="/Research/figures/image3.gif" alt="Acquired images">
-    <img src="/Research/figures/image5.gif" alt="Numerical reconstruction">
+    <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 120%; height: auto;">
+    <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 50%; height: auto;">
   </div>
 </div>
 <!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:-->
