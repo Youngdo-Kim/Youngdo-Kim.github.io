@@ -32,11 +32,11 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
   </div>
   <div style="display: flex; flex-direction: column;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="max-width: 110%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="max-width: 100%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Positioning of x,y</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="max-width: 130%; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="max-width: 110%; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Depth-wise positioning</figcaption>
     </figure>
   </div>
