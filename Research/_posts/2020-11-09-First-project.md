@@ -30,11 +30,11 @@ Published as a co-author, Physics of Fluids (2022/12)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/drop4.jpeg" alt="Evolution of cavity deformation" style="width: 280px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/drop4.jpeg" alt="Evolution of cavity deformation" style="width: 350px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">4. Evolution of cavity deformation</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/drop5.jpeg" alt="Fine PM concentration prediction" style="width: 150px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/drop5.jpeg" alt="Fine PM concentration prediction" style="width: 350px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">5. Comparison between jet inclination and theoretical model angle</figcaption>
   </figure>
 </div>
