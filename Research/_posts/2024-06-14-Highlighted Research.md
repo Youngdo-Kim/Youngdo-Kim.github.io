@@ -18,8 +18,8 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
 <div class="container">
   <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup">
   <div class="small-images">
-    <img src="/Research/figures/img3.gif" alt="Acquired images">
-    <img src="/Research/figures/img5.gif" alt="Numerical reconstruction">
+    <img src="/Research/figures/image3.gif" alt="Acquired images">
+    <img src="/Research/figures/image5.gif" alt="Numerical reconstruction">
   </div>
 </div>
 <!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:-->
