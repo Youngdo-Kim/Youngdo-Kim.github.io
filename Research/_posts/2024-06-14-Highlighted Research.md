@@ -43,6 +43,8 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
   </div>
 </div>
 
+(조금 작은 글씨로) 이 피규어들은 고태식 교수의 Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning을 참고했다.
+
 <!--
 <div style="display: flex; align-items: center;">
   <figure style="margin: 0; text-align: center;">
@@ -71,28 +73,58 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
   </div>
 </div>
 -->
-<!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:-->
+<!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and a [sample page]({{ site.baseurl }}/about/))
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Syntax highlighting, courtesy of [rouge](https://github.com/jneen/rouge)
+-->
 
-### Celeste Features
+### Utilized Artificial Intelligence (AI) Model
 
-In addition to the features of Poole, Celeste adds the following:
+DIHM은 강력한 imaging tool이지만, 몇개의 limitation이 존재한다. 인공지능은 이런 한계에 breakthrough를 제공한다. 내 연구에서는 CAE랑 CNN을 사용했으며, 연구를 통해서 dataset을 생성해야 하는 문제를 해결하기 위해 현재는 physics driven unsupervised learning을 연구하고 있다. CAE는 unsupervised learning으로서, 적혈구 사진을 input으로 학습시킨 CAE모델은 latent space에서 뽑아낸 feature를 사용해 각도를 학습시키거나 data augmentation에 사용되었다. 아래 사진은 사용된 network중 1개의 schemetic이다.
+<img src="/Research/figures/AI1.png" alt= "CAE model">
 
+적혈구 연구에서 CNN network는 input으로 적혈구의 image, output으로 적혈구의 각도 라벨을 주어서 세포의 orientation을 예측하는데 사용된다. 아래 사진은 1개의 figure다. (여기 AI2 figure 넣고)
+<img src="/Research/figures/AI2.png" alt= "CNN model">
+
+The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we need an unsupervised learning method. (현재 연구 중)
+
+### <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of red blood cells using a DIHM</a> 
+
+Published as a co-first author, Biosensors and Bioelectronics (2023/06) : 기여도 적기
+<br>적혈구의 회전거동은 질병 진단에 도움이 되며, flow dynamics에 대한 이해를 한층 더 증대시켜줄 수 있다. (어떻게 적혈구 연구하게 되었는지, 왜 이런 셋업이 필요한지)
+<img src="/Research/figures/RBC1.png" alt= "Experimental setup">
+(인공지능 설명하고) 결과도 설명하기
+<img src="/Research/figures/RBC3.png" alt= "Result">
+<b>Publication:</b> Y. Kim, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232
+
+### AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM
+
+In preparation as a co-author : 기여도 적기
+<br>Static한 RBC에 대해 관찰했으니 한 발 나아가 channel flow에서 관찰했다.
+<img src="/Research/figures/RBCflow1.png" alt= "Experimental setup">
+(인공지능 설명하고) 결과도 설명하기
+<img src="/Research/figures/RBCflow2.png" alt= "Result">
+
+### Physics-driven neural network based the three-dimensional morphology reconstruction using DIHM (Ongoing project)
+
+Ongoing project
+<br> 프로젝트 소개
+
+<!--
 * A design and structure with customizability in mind
 * A clean, unobstrusive top navigation bar
 * A landing page template for showcasing the most important content on your website
 * Optimized for compatibility with most reading tools such as [Pocket](https://getpocket.com), [Instapaper](https://www.instapaper.com) and [Feedly](https://feedly.com/).
 * Subtle animations on UI elements that give visual feedback when interacting with the page
 * Over 500 scalable vector icons, courtesy of [Font Awesome](https://fontawesome.com/v4.7.0/)
-
+-->
 <!-- Additional features to follow -->
 <!-- * A blog archives page, to allow easy access to old blog entries -->
-<!-- * Multiple color schemes, accessible via the `@import` directive -->
+<!-- * Multiple color schemes, accessible via the `@import` directive 
 
 Check out the [README](https://github.com/nicoelayda/celeste#readme) for more details.
 
@@ -104,3 +136,4 @@ Celeste is by preference a forward-thinking project. It is best viewed on the la
 
 Celeste is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/nicoelayda/celeste) for downloads, bug reports, and features requests.
 
+-->
