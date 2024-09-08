@@ -13,7 +13,7 @@ title: Research Portfolio
 ### Exploring Digital In-line Holographic microscopy (DIHM)
 
 DIHM은 single beam path를 가져서 simple한 optical setup을 가지고 있다. 촬영한 이미지를 angular spectrum method를 통해 numerically reconstruction해서 depth-wise 분석도 가능하다. 이렇게 reconstruction한 image들을
-projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device다.
+projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device이다.
 
 <div style="display: flex; align-items: center;">
   <figure style="margin: 0; text-align: center;">
