@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 환경오염이 심해지면서 particulate matter에 대한 관심과 연구가 점점 커지고 있다. 여기에서는 DIHM을 이용해서 식물에 settling하는 PM의 dynamics를 연구하고 물에 떠다니는 PM의 농도를 측정하는 방법을 개발하였다. 여기서는 공저자로서 실험 셋업 개발이나 formal analysis에 기여하며 DIHM 기술 습득과 AI model을 익히는 유용한 기회였다.
 </div>
 
-## Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
+## Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
 
 Published as a co-author, Journal of Environmental Management (2023/04)
 <br>
@@ -42,7 +42,7 @@ Published as a co-author, Journal of Environmental Management (2023/04)
 <br><b>Publication:</b> Kim, J., Kim, J., <b>Kim, Y.</b>, Go, T., and Lee, S. J. (2023). Accelerated settling velocity of airborne particulate matter on hairy plant leaves. J. Environ. Manage. 332, 117313. doi:10.1016/j.jenvman.2023.117313
 <br>
 
-## Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios
+## Research 5. <br> Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios
 
 Published as a co-author, Scientific Reports (2022/12)
 <br>
