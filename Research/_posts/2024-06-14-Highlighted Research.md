@@ -18,16 +18,16 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
 
 <div style="display: flex; align-items: center;gap: 10px;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="width: 180px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="width: 200px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">1. Experimental setup</figcaption>
   </figure>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 170px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 160px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">2. Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 190px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 200px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">3. Numerical reconstruction</figcaption>
     </figure>
   </div>
