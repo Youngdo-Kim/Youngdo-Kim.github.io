@@ -18,7 +18,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
 <div style="display: flex; align-items: center;">
   <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 30%; height: auto;">
   <div style="display: flex; flex-direction: column;">
-    <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 120%; height: auto; margin-bottom: 10px;">
+    <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 60%; height: auto; margin-bottom: 10px;">
     <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 50%; height: auto;">
   </div>
 </div>
