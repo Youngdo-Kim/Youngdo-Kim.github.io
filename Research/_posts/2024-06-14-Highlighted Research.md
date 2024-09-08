@@ -20,7 +20,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
     <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">Experimental setup</figcaption>
   </figure>
-  <div style="display: flex; flex-direction: column; margin-right: 0px">
+  <div style="display: flex; flex-direction: column; gap: 10px">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 170%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
@@ -30,7 +30,7 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
       <figcaption style="font-size: 0.9em; color: #555;">Numerical reconstruction</figcaption>
     </figure>
   </div>
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; gap: 10px">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="max-width: 110%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">Positioning of x,y</figcaption>
