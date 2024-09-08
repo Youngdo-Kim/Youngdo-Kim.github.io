@@ -16,10 +16,29 @@ DIHM은 single beam path를 가져서 simple한 optical setup을 가지고 있�
 projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device다.
 
 <div style="display: flex; align-items: center;">
-  <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 30%; height: auto;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 30%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">Experimental setup</figcaption>
+  </figure>
+  <div style="display: flex; flex-direction: column; margin-right:20px;">
+    <figure style="margin: 0; text-align: center;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 60%; height: auto; margin-bottom: 10px;">
+      <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
+    </figure>
+    <figure style="margin: 0; text-align: center;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 50%; height: auto;">
+      <figcaption style="font-size: 0.9em; color: #555;">Numerical reconstruction</figcaption>
+    </figure>
+  </div>
   <div style="display: flex; flex-direction: column;">
-    <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 60%; height: auto; margin-bottom: 10px;">
-    <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 50%; height: auto;">
+    <figure style="margin: 0; text-align: center;">
+      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="max-width: 50%; height: auto; margin-bottom: 10px;">
+      <figcaption style="font-size: 0.9em; color: #555;">Positioning of x,y</figcaption>
+    </figure>
+    <figure style="margin: 0; text-align: center;">
+      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="max-width: 50%; height: auto;">
+      <figcaption style="font-size: 0.9em; color: #555;">Depth-wise positioning</figcaption>
+    </figure>
   </div>
 </div>
 <!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:-->
