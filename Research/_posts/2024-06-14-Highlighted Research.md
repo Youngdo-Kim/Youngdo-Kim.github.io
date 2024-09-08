@@ -99,7 +99,7 @@ Published as a co-first author, Biosensors and Bioelectronics (2023/06) : 기여
 <img src="/Research/figures/RBC1.png" alt= "Experimental setup">
 (인공지능 설명하고) 결과도 설명하기
 <img src="/Research/figures/RBC3.png" alt= "Result">
-<b>Publication:</b> Y. Kim, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232
+<br><b>Publication:</b> Y. Kim, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232
 
 ### AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM
 
