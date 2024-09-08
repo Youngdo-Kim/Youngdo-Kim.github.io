@@ -23,21 +23,21 @@ projection 시켜서 x,y positioning이 가능하고 z-value를 focus function�
   </figure>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 150px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 170px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">2. Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 180px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 190px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">3. Numerical reconstruction</figcaption>
     </figure>
   </div>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="width: 130px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="width: 135px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">4. Positioning of x,y</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 225px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">5. Depth-wise positioning</figcaption>
     </figure>
   </div>
