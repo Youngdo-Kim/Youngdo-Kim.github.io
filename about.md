@@ -20,7 +20,7 @@ title: About Me
 
 <hr>
 
-<div class="education">
+<section>
   <h2>EDUCATION</h2>
         
   <!-- B.S. Section -->
@@ -40,7 +40,7 @@ title: About Me
       Daegu Science High School (DSHS), Feb. 2019
     </ul>
   </div>
-</div>
+</section>
 
 <section>
     <h2>Research Interests</h2>
