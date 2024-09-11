@@ -58,8 +58,13 @@ title: About Me
             <h2>Research Experience</h2>
             <ul>
                 <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea<br>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</li>
-                <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea<br>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy<br>AI-based orientation analysis of red blood cells using digital holographic microscopy<br>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations<br>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves<br>Development of an efficient condensation surface using liquid-infused surface(LIS) in a solar desalination system</li>
-                <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea<br>Conceptualization and analysis of worthington jet dynamics in oblique bath</li>
+                <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
+                  <br><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy
+                  <br><em>AI-based orientation analysis of red blood cells using digital holographic microscopy
+                  <br><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations
+                  <br><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves<br>Development of an efficient condensation surface using liquid-infused surface(LIS) in a solar desalination system</li>
+                <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea
+                <br><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</li>
             </ul>
         </section>
 
