@@ -75,22 +75,23 @@ title: About Me
   </section>
 
   <section>
-            <h2>Other Experience</h2>
-            <ul class="experience">
-                <li><strong>Student Mentor Program:</strong></li>
-                <ul class="experience-list">
-                    <li><em>Feb 2020 - Jun 2020:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
+    <h2>Other Experience</h2>
+    <ul class="experience">
+      <li><strong>Student Mentor Program:</strong></li>
+      <ul class="experience-list">
+        <li><em>Feb 2020 - Jun 2020:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
 
-                    <li><em>Feb 2022 - Jun 2022:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
+        <li><em>Feb 2022 - Jun 2022:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
 
-                    <li><strong>Military Service:</strong></li>
+        <li><strong>Military Service:</strong></li>
 
-                    <ul class="experience-list"><em>Dec 2022 - Jun 2024:</em><br>Korea Army, Republic of Korea<br>Landmine removal operations and explosive handling<br>Attending military AI competition 2023, Ministry of National Defense
-                    </ul>
+        <ul class="experience-list"><em>Dec 2022 - Jun 2024:</em><br>Korea Army, Republic of Korea<br>Landmine removal operations and explosive handling
+        <br>Attending military AI competition 2023, Ministry of National Defense
+        </ul>
 
-                </ul>
+        </ul>
 
-            </ul>
+        </ul>
 
  </section>
 
