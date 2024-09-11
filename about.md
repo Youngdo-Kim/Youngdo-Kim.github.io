@@ -11,7 +11,7 @@ title: About Me
   <h1>Youngdo Kim</h1>
   <p>[Undergradute Student at Pohang University of Science and Technology]</p>
   <div class="contact-info">
-    <a href="[https://scholar.google.com/citations?user=hcQTdngAAAAJ&hl=ko]">Google Scholar</a> | 
+    <a href="[https://scholar.google.com/citations?user=hcQTdngAAAAJ&hl=ko]">Google Scholar</a>
     <a href="mailto:[youngdokim@postech.ac.kr]">Email</a>
   </div>
 </div>
