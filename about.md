@@ -7,7 +7,7 @@ title: About Me
 
 
 <div class="profile">
-  <img src="smile.jpg" alt="Profile Picture">
+  <img src="/smile.jpg" alt="Profile Picture">
   <h1>Youngdo Kim</h1>
   <p>[Your Title]</p>
   <div class="contact-info">
