@@ -73,7 +73,7 @@ title: About Me
         </li>
         <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea
           <ul class="experience-list">
-            <br><li><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
+            <li><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
           </ul>
         </li>
     </ul>
