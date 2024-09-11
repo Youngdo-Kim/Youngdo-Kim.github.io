@@ -63,16 +63,6 @@ title: About Me
             </ul>
         </section>
 
-<section>
-            <h2>Awards & Honors</h2>
-            <ul class="awards">
-                <li>Mechanical Engineering Student Award, POSTECH (2022)</li>
-                <li>Outstanding Capstone Design Award, POSTECH (2022)</li>
-                <li>Excellence Paper Award, The 12th National Congress of Fluids Engineering (2022)</li>
-                <li>The National Scholarship for Science and Engineering (Fall 2021 - Present)</li>
-                <li>Jigok Scholarship, POSTECH (2019-2021)</li>
-            </ul>
-  </section>
 
 <section>
     <h2>Other Experience</h2>
@@ -91,3 +81,13 @@ title: About Me
     </ul>
 </section>
 
+<section>
+            <h2>Awards & Honors</h2>
+            <ul class="awards">
+                <li>Mechanical Engineering Student Award, POSTECH (2022)</li>
+                <li>Outstanding Capstone Design Award, POSTECH (2022)</li>
+                <li>Excellence Paper Award, The 12th National Congress of Fluids Engineering (2022)</li>
+                <li>The National Scholarship for Science and Engineering (Fall 2021 - Present)</li>
+                <li>Jigok Scholarship, POSTECH (2019-2021)</li>
+            </ul>
+  </section>
