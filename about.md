@@ -21,7 +21,7 @@ title: About Me
 <hr style='border : 1.5px solid black;'>
 
 <section>
-  <h2>EDUCATION</h2>
+  <h2>Education</h2>
         
   <!-- B.S. Section -->
   <div class="education-section">
@@ -57,42 +57,17 @@ title: About Me
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
-          <ul class="experience-list">
-            <li><em>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
-          </ul>
-        </li>
-        <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
-            <ul class="experience-list">
-                <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
-                <li><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em></li>
-                <li><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em></li>
-                <li><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em></li>
-                <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
-            </ul>
-        </li>
-        <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea
-          <ul class="experience-list">
-            <li><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
-          </ul>
-        </li>
+        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2024 - Present<br><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2020 - Dec 2022<br><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em><br><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em><br><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em><br><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em><br>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
+        <li><strong>Research Intern</strong>, Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea, Mar 2017 - Feb 2018<br><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
     </ul>
 </section>
-
 
 <section>
     <h2>Other Experience</h2>
     <ul class="experience">
-        <li><strong>Student Mentor Program:</strong> at POSTECH
-            <ul class="experience-list">
-                <li><em>Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
-            </ul>
-        </li>
-        <li><strong>Military Service:</strong>
-            <ul class="experience-list">
-                <li><em>Dec 2022 - Jun 2024:</em><br>Korea Army, Republic of Korea<br>Landmine removal operations and explosive handling<br>Attending military AI competition 2023, Ministry of National Defense</li>
-            </ul>
-        </li>
+        <li><strong>Student Mentor Program</strong>, POSTECH, Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022<br><em>Teaching undergraduate mentees solid mechanics</em></li>
+        <li><strong>Military Service</strong>, Korea Army, Republic of Korea, Dec 2022 - Jun 2024<br><em>Landmine removal operations and explosive handling</em><br><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
     </ul>
 </section>
 
