@@ -55,27 +55,29 @@ title: About Me
 </section>
 
 <section>
-            <h2>Research Experience</h2>
-            <ul>
-                <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea<br>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</li>
-                <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
-                  <br><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy
-                  <br><em>AI-based orientation analysis of red blood cells using digital holographic microscopy
-                  <br><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations
-                  <br><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves<br>Development of an efficient condensation surface using liquid-infused surface(LIS) in a solar desalination system</li>
-                <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea
-                <br><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</li>
+    <h2>Research Experience</h2>
+    <ul class="experience">
+        <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea<br>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</li>
+        <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
+            <ul class="experience-list">
+                <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
+                <li><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em></li>
+                <li><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em></li>
+                <li><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em></li>
+                <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
-        </section>
+        </li>
+        <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea<br><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
+    </ul>
+</section>
 
 
 <section>
     <h2>Other Experience</h2>
     <ul class="experience">
-        <li><strong>Student Mentor Program:</strong>
+        <li><strong>Student Mentor Program:</strong> at POSTECH
             <ul class="experience-list">
-                <li><em>Feb 2020 - Jun 2020:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
-                <li><em>Feb 2022 - Jun 2022:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
+                <li><em>Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022:</em><br>POSTECH Mechanical Engineering Mentor & Mentee Program<br>Teaching undergraduate mentees solid mechanics</li>
             </ul>
         </li>
         <li><strong>Military Service:</strong>
