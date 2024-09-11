@@ -57,17 +57,42 @@ title: About Me
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2024 - Present<br><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
-        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2020 - Dec 2022<br><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em><br><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em><br><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em><br><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em><br>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
-        <li><strong>Research Intern</strong>, Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea, Mar 2017 - Feb 2018<br><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
+        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2024 - Present
+            <ul class="experience-list">
+                <li><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+            </ul>
+        </li>
+        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2020 - Dec 2022
+            <ul class="experience-list">
+                <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
+                <li><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em></li>
+                <li><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em></li>
+                <li><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em></li>
+                <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
+            </ul>
+        </li>
+        <li><strong>Research Intern</strong>, Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea, Mar 2017 - Feb 2018
+            <ul class="experience-list">
+                <li><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
+            </ul>
+        </li>
     </ul>
 </section>
 
 <section>
     <h2>Other Experience</h2>
     <ul class="experience">
-        <li><strong>Student Mentor Program</strong>, POSTECH, Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022<br><em>Teaching undergraduate mentees solid mechanics</em></li>
-        <li><strong>Military Service</strong>, Korea Army, Republic of Korea, Dec 2022 - Jun 2024<br><em>Landmine removal operations and explosive handling</em><br><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
+        <li><strong>Student Mentor Program</strong>, POSTECH, Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022
+            <ul class="experience-list">
+                <li><em>Teaching undergraduate mentees solid mechanics</em></li>
+            </ul>
+        </li>
+        <li><strong>Military Service</strong>, Korea Army, Republic of Korea, Dec 2022 - Jun 2024
+            <ul class="experience-list">
+                <li><em>Landmine removal operations and explosive handling</em></li>
+                <li><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
+            </ul>
+        </li>
     </ul>
 </section>
 
