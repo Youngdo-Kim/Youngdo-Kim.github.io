@@ -59,7 +59,7 @@ title: About Me
     <ul class="experience">
         <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
           <ul class="experience-list">
-            <br><li><em>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+            <li><em>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
           </ul>
         </li>
         <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
