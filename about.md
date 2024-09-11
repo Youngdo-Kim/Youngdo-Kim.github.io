@@ -57,7 +57,9 @@ title: About Me
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea<br>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</li>
+        <li><strong>Undergraduate Researcher</strong>, Jul 2024 - Present<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
+          <br><li><em>Physics-driven neural network based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+        </li>
         <li><strong>Undergraduate Researcher</strong>, Jul 2020 - Dec 2022<br>Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea
             <ul class="experience-list">
                 <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
@@ -67,7 +69,9 @@ title: About Me
                 <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
         </li>
-        <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea<br><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
+        <li><strong>Research Intern</strong>, Mar 2017 - Feb 2018<br>Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea
+          <br><li><em>Conceptualization and analysis of worthington jet dynamics in oblique bath</em></li>
+        </li>
     </ul>
 </section>
 
