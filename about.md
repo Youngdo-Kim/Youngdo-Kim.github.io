@@ -11,11 +11,14 @@ title: About Me
   <h1>Youngdo Kim</h1>
   <p>[Undergradute Student at Pohang University of Science and Technology]</p>
   <div class="contact-info">
+    <a href="/Curriculum Vitae_YoungdoKim.pdf">CV</a>
     <a href="https://scholar.google.com/citations?user=hcQTdngAAAAJ&hl=ko">Google Scholar</a>
     <a href="mailto:[youngdokim@postech.ac.kr]">Email</a>
-    <a href="/Curriculum Vitae_YoungdoKim.pdf">CV</a>
+    
   </div>
 </div>
+
+<hr>
 
 <div class="education">
   <h2>EDUCATION</h2>
@@ -39,3 +42,11 @@ title: About Me
   </div>
 </div>
 
+<section>
+    <h2>Research Interests</h2>
+    <ol>
+        <li><strong>Fluid Mechanics:</strong> Analysis of Turbulent Motions and Instabilities with Concurrent Scalar Transfers</li>
+        <li><strong>Computational Science:</strong> Development of Time-Efficient Computing Schemes for Physics-Based</li>
+        <li><strong>Complex Systems:</strong> Flows in Human Environment: Application to Sustainable Energy or Clean Environment on Various Scales</li>
+    </ol>
+</section>
