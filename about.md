@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-<?php include 'head.html'; ?>
+
 
 <div class="profile">
   <img src="smile.jpg" alt="Profile Picture">
