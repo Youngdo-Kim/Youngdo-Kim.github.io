@@ -72,9 +72,9 @@ title: About Me
                 <li>The National Scholarship for Science and Engineering (Fall 2021 - Present)</li>
                 <li>Jigok Scholarship, POSTECH (2019-2021)</li>
             </ul>
-        </section>
+  </section>
 
-        <section>
+  <section>
             <h2>Other Experience</h2>
             <ul class="experience">
                 <li><strong>Student Mentor Program:</strong></li>
@@ -92,5 +92,5 @@ title: About Me
 
             </ul>
 
-        </section>
+ </section>
 
