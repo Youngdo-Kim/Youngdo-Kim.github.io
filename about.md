@@ -23,9 +23,9 @@ title: About Me
   <div class="education-section">
     <ul>
       <li><strong>B.S., <a href="https://me.postech.ac.kr/">Mechanical Engineering</a></strong></li>
-      <li>Pohang University of Science and Technology (POSTECH), Expected Graduation: Feb. 2025</li>
-      <li><strong>Overall GPA:</strong> 3.90/4.30</li>
-      <li><strong>Honors:</strong> [Any honors or awards, if applicable]</li>
+      <br>Pohang University of Science and Technology (POSTECH), Expected Graduation: Feb. 2025
+      <br><strong>Overall GPA:</strong> 3.90/4.30
+      <br><strong>Honors:</strong> [Any honors or awards, if applicable]
     </ul>
   </div>
 
@@ -33,7 +33,7 @@ title: About Me
   <div class="education-section">
     <ul>
       <li><strong>High School Diploma</strong></li>
-      <li>Daegu Science High School (DSHS), Feb. 2019</li>
+      <br>Daegu Science High School (DSHS), Feb. 2019</li>
     </ul>
   </div>
 </div>
