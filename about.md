@@ -27,9 +27,8 @@ title: About Me
   <div class="education-section">
     <ul>
       <li><strong>B.S., <a href="https://me.postech.ac.kr/">Mechanical Engineering</a></strong></li>
-      Pohang University of Science and Technology (POSTECH) <br> Expected Graduation: Feb. 2025
+      Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea <br> Expected Graduation: Feb. 2025
       <br><strong>Overall GPA:</strong> 3.90/4.30
-      <br><strong>Honors:</strong> [Any honors or awards, if applicable]
     </ul>
   </div>
 
@@ -57,13 +56,15 @@ title: About Me
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2024 - Present
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
             <ul class="experience-list">
-                <li><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+              <!--이부분 이해하기 쉽게 정리해-->  
+              <li><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
             </ul>
         </li>
-        <li><strong>Undergraduate Researcher</strong>, Future Fluid and Biomimetics Laboratory (PI: Prof. Sang Joon Lee), POSTECH, Pohang, Republic of Korea, Jul 2020 - Dec 2022
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
             <ul class="experience-list">
+                <!--이부분 이해하기 쉽게 정리해-->
                 <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
                 <li><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em></li>
                 <li><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em></li>
@@ -71,9 +72,9 @@ title: About Me
                 <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
         </li>
-        <li><strong>Research Intern</strong>, Fluid and Interface Laboratory (PI: Prof. Hyoungsoo Kim), KAIST, Daejeon, Republic of Korea, Mar 2017 - Feb 2018
-            <ul class="experience-list">
-                <li><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
+        <li><strong>Research Intern</strong>, <a href="https://hyoungsookimm.wixsite.com/filkaist">Fluid and Interface Laboratory </a> (PI: Prof. Hyoungsoo Kim), Korea Advanced Institute of Science and Technology, Mar 2017 - Feb 2018
+            <ul class="experience-list"> 
+              <li><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
             </ul>
         </li>
     </ul>
@@ -87,7 +88,7 @@ title: About Me
                 <li><em>Teaching undergraduate mentees solid mechanics</em></li>
             </ul>
         </li>
-        <li><strong>Military Service</strong>, Korea Army, Republic of Korea, Dec 2022 - Jun 2024
+        <li><strong>Military Service</strong>, Korea Army, Dec 2022 - Jun 2024
             <ul class="experience-list">
                 <li><em>Landmine removal operations and explosive handling</em></li>
                 <li><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
@@ -99,10 +100,10 @@ title: About Me
 <section>
             <h2>Awards & Honors</h2>
             <ul class="awards">
-                <li>Mechanical Engineering Student Award, POSTECH (2022)</li>
-                <li>Outstanding Capstone Design Award, POSTECH (2022)</li>
-                <li>Excellence Paper Award, The 12th National Congress of Fluids Engineering (2022)</li>
-                <li>The National Scholarship for Science and Engineering (Fall 2021 - Present)</li>
-                <li>Jigok Scholarship, POSTECH (2019-2021)</li>
+                <li>Mechanical Engineering Student Award, POSTECH, Aug. 2022</li>
+                <li>Outstanding Capstone Design Award, POSTECH Jun. 2022</li>
+                <li>Excellence Paper Award, The 12th National Congress of Fluids Engineering 2022</li>
+                <li>The National Scholarship for Science and Engineering Sep. 2021 - Present</li>
+                <li>Jigok Scholarship, POSTECH Feb. 2019 - Jul. 2021</li>
             </ul>
   </section>
