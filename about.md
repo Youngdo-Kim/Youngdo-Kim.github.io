@@ -51,7 +51,7 @@ title: About Me
 
         <br>내가 최초로 발견한 물리 현상(논문으로 이동)의 원리를 규명할 수 있다는 기쁨과 보람은 나를 연구자의 길로 들어서게 만들기 충분했다. 유체역학의 매력에 이끌려 기계공학과에 진학해 실험 유체역학 연구실에서 연구하게 되었다.
         이 과정에서 numerical reconstruction을 통해 depth-wise information을 알 수 있는 digital holographic microscopy와 machine learning을 tool로서 익히게 되었다.
-        내 연구의 핵심은 적혈구의 velocity field 뿐만 아닌 orientation까지 측정하는 통합적 flow dynamics 분석 연구이며 현재는 neural fields를 활용한 unsupervised 3D object morphology reconstruction을 연구하고 있다.
+        내 연구의 핵심은 single-shot image로 적혈구의 velocity field 뿐만 아닌 orientation까지 측정하는 통합적 flow dynamics 분석 연구이며 현재는 single-shot image로 neural fields를 활용한 unsupervised 3D object morphology reconstruction을 연구하고 있다.
 
         더 궁금한 내용이 있다면 'research section'에 방문해달라.
         
@@ -64,7 +64,7 @@ title: About Me
     <ul class="experience">
         <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
             <ul class="experience-list">
-              <li><em>Using a coordinate-based physics-driven neural network to reconstruct the three-dimensional morphology of microparticles from a single-shot image obtained through DIHM</em></li>
+              <li><em>Using a coordinate-based physics-driven neural network to reconstruct the 3D morphology of microparticles with DIHM</em></li>
             </ul>
         </li>
         <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
