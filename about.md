@@ -49,7 +49,7 @@ title: About Me
         <li><strong>Machine Learning:</strong> Applying supervised and unsupervised learnings to predict cell characteristics and reconstruct object morphology</li>
         <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as droplets, cells, and particulate matter, with their surrounding fluids</li>
 
-        내가 최초로 발견한 물리 현상(논문으로 이동)의 원리를 규명할 수 있다는 기쁨과 보람은 나를 연구자의 길로 들어서게 만들기 충분했다. 유체역학의 매력에 이끌려 기계공학과에 진학해 실험 유체역학 연구실에서 연구하게 되었다.
+        <br>내가 최초로 발견한 물리 현상(논문으로 이동)의 원리를 규명할 수 있다는 기쁨과 보람은 나를 연구자의 길로 들어서게 만들기 충분했다. 유체역학의 매력에 이끌려 기계공학과에 진학해 실험 유체역학 연구실에서 연구하게 되었다.
         이 과정에서 numerical reconstruction을 통해 depth-wise information을 알 수 있는 digital holographic microscopy와 machine learning을 tool로서 익히게 되었다.
         내 연구의 핵심은 적혈구의 velocity field 뿐만 아닌 orientation까지 측정하는 통합적 flow dynamics 분석 연구이며 현재는 neural fields를 활용한 unsupervised 3D object morphology reconstruction을 연구하고 있다.
 
