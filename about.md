@@ -28,7 +28,7 @@ title: About Me
     <ul>
       <li><strong>B.S., <a href="https://me.postech.ac.kr/">Mechanical Engineering</a></strong></li>
       Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea <br> Expected Graduation: Feb. 2025
-      <br><strong>Overall GPA:</strong> 3.90/4.30
+      <!-- <br><strong>Overall GPA:</strong> 3.90/4.30 -->
     </ul>
   </div>
 
@@ -44,13 +44,19 @@ title: About Me
 <section>
     <h2>Research Interests</h2>
     <ol>
-        <li><strong>Biomedical Engineering:</strong> Axisymmetric cell의 orientation을 알아내는 기술을 개발했고 morphology를 알아내는 기술을 개발중이다</li>
-        <li><strong>Artificial Intelligence:</strong> Supervised learning으로 세포의 각도를 예측했으며 unsupervised learning의 pdnn으로 phase retrieval 연구중이다</li>
-        <li><strong>Fluid Mechanics:</strong> Droplet impact나 PM settling velocity, cell의 flow characteristic을 연구하는 기술을 개발했다</li>
+        <li><strong>Biomedical Imaging:</strong> Developing a technique to analyze the three-dimensional (3D) orientation and morphology of axisymmetric cells using single-shot images from
+          <strong>digital in-line holographic microscopy (DIHM)</strong></li>
+        <li><strong>Machine Learning:</strong> Applying supervised and unsupervised learnings to predict cell characteristics and reconstruct object morphology</li>
+        <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as droplets, cells, and particulate matter, with their surrounding fluids</li>
+
+        내가 최초로 발견한 물리 현상(논문으로 이동)의 원리를 규명할 수 있다는 기쁨과 보람은 나를 연구자의 길로 들어서게 만들기 충분했다. 유체역학의 매력에 이끌려 기계공학과에 진학해 실험 유체역학 연구실에서 연구하게 되었다.
+        이 과정에서 numerical reconstruction을 통해 depth-wise information을 알 수 있는 digital holographic microscopy와 machine learning을 tool로서 익히게 되었다.
+        내 연구의 핵심은 적혈구의 velocity field 뿐만 아닌 orientation까지 측정하는 통합적 flow dynamics 분석 연구이며 현재는 neural fields를 활용한 unsupervised 3D object morphology reconstruction을 연구하고 있다.
+
+        더 궁금한 내용이 있다면 'research section'에 방문해달라.
+        
     </ol>
-    <p>
-      내 연구의 시작은 물방울 어쩌구 저쩌구...
-    </p>
+    
 </section>
 
 <section>
@@ -58,23 +64,21 @@ title: About Me
     <ul class="experience">
         <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
             <ul class="experience-list">
-              <!--이부분 이해하기 쉽게 정리해-->  
-              <li><em>Physics-driven neural network-based 3D morphology recovery of microparticles from a single shot digital hologram</em></li>
+              <li><em>Using a coordinate-based physics-driven neural network to reconstruct the three-dimensional morphology of microparticles from a single-shot image obtained through DIHM</em></li>
             </ul>
         </li>
         <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
             <ul class="experience-list">
-                <!--이부분 이해하기 쉽게 정리해-->
-                <li><em>AI-based analysis of 3D translational and rotational dynamics on red blood cells using a digital in-line holographic microscopy</em></li>
-                <li><em>AI-based orientation analysis of red blood cells using digital holographic microscopy</em></li>
-                <li><em>Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations</em></li>
+                <li><em>AI-based analysis of 3D rotational and translational dynamics on red blood cells using DIHM</em></li>
+                <li><em>AI-based analysis of 3D orientation and position of red blood cells using DIHM</em></li>
+                <li><em>Development of a smartphone-based holographic monitoring device for measuring concentrations of polydisperse suspended particulate matter</em></li>
                 <li><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em></li>
                 <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
         </li>
         <li><strong>Research Intern</strong>, <a href="https://hyoungsookimm.wixsite.com/filkaist">Fluid and Interface Laboratory </a> (PI: Prof. Hyoungsoo Kim), Korea Advanced Institute of Science and Technology, Mar 2017 - Feb 2018
             <ul class="experience-list"> 
-              <li><em>Conceptualization and analysis of Worthington jet dynamics in oblique bath</em></li>
+              <li><em>Analysis of Worthington jet dynamics in oblique bath</em></li>
             </ul>
         </li>
     </ul>
