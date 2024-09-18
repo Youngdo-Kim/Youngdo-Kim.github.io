@@ -49,11 +49,11 @@ title: About Me
         <li><strong>Machine Learning:</strong> Applying supervised and unsupervised learnings to predict cell characteristics and reconstruct object morphology</li>
         <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as droplets, cells, and particulate matter, with their surrounding fluids</li>
 
-        <br>내가 최초로 발견한 물리 현상(논문으로 이동)의 원리를 규명할 수 있다는 기쁨과 보람은 나를 연구자의 길로 들어서게 만들기 충분했다. 유체역학의 매력에 이끌려 기계공학과에 진학해 실험 유체역학 연구실에서 연구하게 되었다.
-        이 과정에서 numerical reconstruction을 통해 depth-wise information을 알 수 있는 digital holographic microscopy와 machine learning을 tool로서 익히게 되었다.
-        내 연구의 핵심은 single-shot image로 적혈구의 velocity field 뿐만 아닌 orientation까지 측정하는 통합적 flow dynamics 분석 연구이며 현재는 single-shot image로 neural fields를 활용한 unsupervised 3D object morphology reconstruction을 연구하고 있다.
-
-        더 궁금한 내용이 있다면 'research section'에 방문해달라.
+        <br>The joy and fulfillment of elucidating the principles of a <a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">physical phenomenon</a> I discovered for the first time were enough to lead me down the path of a researcher.
+        Drawn by the allure of fluid mechanics, I pursued a degree in mechanical engineering and conducted research in an experimental fluid mechanics laboratory.
+        <br>Throughout this journey, I mastered digital holographic microscopy to obtain depth-wise information through numerical reconstruction and learned to use machine learning as a tool.
+        The core of <a href="https://youngdo-kim.github.io/research/2024/03/15/introducing-celeste/">my research</a> is an integrated flow dynamics analysis technique that measures the velocity field and the orientation of red blood cells using a single-shot image.
+        Currently, I am researching unsupervised 3D object morphology reconstruction using neural fields with single-shot images.
         
     </ol>
     
@@ -62,12 +62,12 @@ title: About Me
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
             <ul class="experience-list">
               <li><em>Using a coordinate-based physics-driven neural network to reconstruct the 3D morphology of microparticles with DIHM</em></li>
             </ul>
         </li>
-        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
             <ul class="experience-list">
                 <li><em>AI-based analysis of 3D rotational and translational dynamics on red blood cells using DIHM</em></li>
                 <li><em>AI-based analysis of 3D orientation and position of red blood cells using DIHM</em></li>
@@ -76,7 +76,8 @@ title: About Me
                 <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
         </li>
-        <li><strong>Research Intern</strong>, <a href="https://hyoungsookimm.wixsite.com/filkaist">Fluid and Interface Laboratory </a> (PI: Prof. Hyoungsoo Kim), Korea Advanced Institute of Science and Technology, Mar 2017 - Feb 2018
+        <li><strong>Research Intern</strong>, <a href="https://hyoungsookimm.wixsite.com/filkaist">Fluid and Interface Laboratory </a> (PI: Prof. Hyoungsoo Kim),
+          <br> Korea Advanced Institute of Science and Technology, Mar 2017 - Feb 2018
             <ul class="experience-list"> 
               <li><em>Analysis of Worthington jet dynamics in oblique bath</em></li>
             </ul>
