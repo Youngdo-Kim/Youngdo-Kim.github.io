@@ -98,11 +98,6 @@ title: About Me
             </ul>
         </li>
     </ul>
-    <div style="margin-left: 20px;">
-        <p>
-          
-        </p>
-    </div>
 </section>
 
 <section>
