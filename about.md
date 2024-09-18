@@ -46,8 +46,8 @@ title: About Me
     <ol>
         <li><strong>Biomedical Imaging:</strong> Developing a technique to analyze the three-dimensional (3D) orientation and morphology of axisymmetric cells using single-shot images from
           <strong>digital in-line holographic microscopy (DIHM)</strong></li>
-        <li><strong>Machine Learning:</strong> Applying supervised and unsupervised learnings to predict cell characteristics and reconstruct object morphology</li>
-        <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as droplets, cells, and particulate matter, with their surrounding fluids</li>
+        <li><strong>Machine Learning:</strong> Applying <strong>supervised</strong> and <strong>unsupervised learnings</strong> to predict cell characteristics and reconstruct object morphology</li>
+        <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as <strong>droplets</strong>, <strong>cells</strong>, and <strong>particulate matter (PM)</strong>, with their surrounding fluids</li>
 
         
     </ol>
@@ -70,8 +70,8 @@ title: About Me
             <ul class="experience-list">
                 <li><em>AI-based analysis of 3D rotational and translational dynamics on red blood cells using DIHM</em></li>
                 <li><em>AI-based analysis of 3D orientation and position of red blood cells using DIHM</em></li>
-                <li><em>Development of a smartphone-based holographic monitoring device for measuring concentrations of polydisperse suspended particulate matter</em></li>
-                <li><em>Acceleration in the settling velocity of airborne particulate matter on hairy plant leaves</em></li>
+                <li><em>Development of a smartphone-based holographic monitoring device for measuring concentrations of polydisperse suspended PM</em></li>
+                <li><em>Acceleration in the settling velocity of airborne PM on hairy plant leaves</em></li>
                 <li>Development of an efficient condensation surface using liquid-infused surface (LIS) in a solar desalination system</li>
             </ul>
         </li>
