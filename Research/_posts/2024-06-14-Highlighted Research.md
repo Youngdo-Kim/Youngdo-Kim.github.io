@@ -42,7 +42,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
   </div>
 </div>
 
-<p style="font-size: 0.8em; text-align: right;">The above figure is related to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020'.</p>
+<p style="font-size: 0.8em; text-align: right;"><br>The above figure is related to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020'.</p>
 
 ### Utilized Machine Learning (ML) Model
 
@@ -51,7 +51,7 @@ With the aid of recent advances in machine learning (ML) techniques, the combina
 <br>For the self-supervised CAE model, a CAE model trained with red blood cell images can use features extracted from the latent space to predict angles or be used for data augmentation.
 <img src="/Research/figures/AI1.png" alt= "CAE model">
 
-CNNs can be used to analyze red blood cell images to predict their orientation. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
+<br>CNNs can be used to analyze red blood cell images to predict their orientation. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
 <img src="/Research/figures/AI2.png" alt= "CNN model">
 
-The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a self-supervised learning method to predict the features of an object.
+<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a self-supervised learning method to predict the features of an object.
