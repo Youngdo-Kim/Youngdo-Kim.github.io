@@ -20,7 +20,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
     <img src="/Research/figures/DIHMsetup.png" alt="Experimental setup" style="width: 250px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">1. Experimental Setup</figcaption>
   </figure>
-  <div style="display: flex; flex-direction: column;gap: 30px;">
+  <div style="display: flex; flex-direction: column;gap: 35px;">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 210px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">2. Acquired Images</figcaption>
@@ -30,7 +30,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
       <figcaption style="font-size: 0.9em; color: #555;">3. Numerical Reconstruction</figcaption>
     </figure>
   </div>
-  <div style="display: flex; flex-direction: column;gap: 5px;">
+  <div style="display: flex; flex-direction: column;gap: 0px;">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image6.jpeg" alt="Positioning of x,y" style="width: 185px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">4. Positioning of x,y</figcaption>
@@ -42,7 +42,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
   </div>
 </div>
 
-<p style="font-size: 0.8em; text-align: right;"><br>The above figure is related to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020'.</p>
+<p style="font-size: 0.8em; text-align: right;"><br>The above figure is associated with 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020</p>
 
 <h2> Utilized Machine Learning (ML) Model </h2>
 
