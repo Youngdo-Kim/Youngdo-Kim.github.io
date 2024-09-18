@@ -50,10 +50,9 @@ title: About Me
         <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as droplets, cells, and particulate matter, with their surrounding fluids</li>
 
         <br>The joy and fulfillment of elucidating the principles of a <a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">physical phenomenon</a> I discovered for the first time were enough to lead me down the path of a researcher.
-        Drawn by the allure of fluid mechanics, I pursued a degree in mechanical engineering and conducted research in an experimental fluid mechanics laboratory.
-        <br>Throughout this journey, I mastered digital holographic microscopy to obtain depth-wise information through numerical reconstruction and learned to use machine learning as a tool.
-        The core of <a href="https://youngdo-kim.github.io/research/2024/03/15/introducing-celeste/">my research</a> is an integrated flow dynamics analysis technique that measures the velocity field and the orientation of red blood cells using a single-shot image.
-        Currently, I am researching unsupervised 3D object morphology reconstruction using neural fields with single-shot images.
+        <br>Throughout this journey, I mastered DIHM to obtain depth-wise information through numerical reconstruction and learned to use machine learning as a tool.
+        The core of <a href="https://youngdo-kim.github.io/research/2024/03/15/introducing-celeste/">my research</a> is a biomedical imaging technique that measures the velocity fields and orientation of red blood cells.
+        Currently, I am working on unsupervised 3D object morphology reconstruction using neural fields with a single image.
         
     </ol>
     
