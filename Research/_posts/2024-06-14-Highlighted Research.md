@@ -42,7 +42,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
   </div>
 </div>
 
-<p style="font-size: 0.8em; text-align: right;"><br>The above figure is associated with 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020</p>
+<p style="font-size: 0.8em; text-align: right;"><br>The above figure pertains to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020</p>
 
 <h2> Utilized Machine Learning (ML) Model </h2>
 
