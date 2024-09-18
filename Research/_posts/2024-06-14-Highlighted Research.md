@@ -5,114 +5,53 @@ title: Research Portfolio
 
 <hr style='border : 1.5px solid navy;'>
 
-> 이 페이지는 이상준 교수님과 김형수 교수님께 지도를 받았던 제 연구 발자취를 적어놓았습니다. 제 연구에 대한 더 많은 정보를 위해서는 저에게 feel free to 연락주세요! 저는 흥미로운 아이디어에 대한 토론과 새로운 시각을 환영합니다!
-<!-- Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo). -->
+> This page gives a journey of research under the supervision of <a href="http://bbrc.postech.ac.kr/page/member01">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>.
+> For more information on my research, feel free to contact me! I always look forward to discussing fascinating ideas and new perspectives.
 
 <hr>
 
-### Exploring Digital In-line Holographic microscopy (DIHM)
+### Exploring Digital In-line Holographic Microscopy (DIHM)
 
-DIHM은 single beam path를 가져서 simple한 optical setup을 가지고 있다. 촬영한 이미지를 angular spectrum method를 통해 numerically reconstruction해서 depth-wise 분석도 가능하다. 이렇게 reconstruction한 image들을
-projection 시켜서 x,y positioning이 가능하고 z-value를 focus function으로 알아내서 particle의 3차원 position과 2D intensity를 알 수 있는 device이다.
+Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Especially, DIHM setup is straightforward and compact due to its single beam path. By numerically reconstructing the depth-wise information from holographic images, one can obtain the 3D positions and 2D in-focus intensity images of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. Using a focus function, the particle depth with the highest focus value is identified as the z position.
 
 
 <div style="display: flex; align-items: center;gap: 10px;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/DIHMsetup.png" alt="Experimental setup" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/DIHMsetup.png" alt="Experimental setup" style="width: 250px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">1. Experimental setup</figcaption>
   </figure>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 160px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 210px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">2. Acquired images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 200px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 250px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">3. Numerical reconstruction</figcaption>
     </figure>
   </div>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="width: 135px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="width: 185px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">4. Positioning of x,y</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 225px; height: auto; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 275px; height: auto; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">5. Depth-wise positioning</figcaption>
     </figure>
   </div>
 </div>
 
-(조금 작은 글씨로) 이 피규어들은 고태식 교수의 Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning을 참고했다.
+<p style="font-size: 0.8em; text-align: right;">The above figure is related to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020'.</p>
 
-<!--
-<div style="display: flex; align-items: center;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/DIHMsetup.jpg" alt="Experimental setup" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">Experimental setup</figcaption>
-  </figure>
-  <div style="display: flex; flex-direction: column;">
-    <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image3.gif" alt="Acquired images" style="max-width: 170%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">Acquired images</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">Numerical reconstruction</figcaption>
-    </figure>
-  </div>
-  <div style="display: flex; flex-direction: column;">
-    <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="max-width: 100%; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">Positioning of x,y</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="max-width: 110%; height: auto; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">Depth-wise positioning</figcaption>
-    </figure>
-  </div>
-</div>
--->
-<!--Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:
+### Utilized Machine Learning (ML) Model
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and a [sample page]({{ site.baseurl }}/about/))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Syntax highlighting, courtesy of [rouge](https://github.com/jneen/rouge)
--->
+With the aid of recent advances in machine learning (ML) techniques, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. Convolutional autoencoder (CAE) and convolutional neural network (CNN) is utilized to learn and predict the feature of the images acquired from DIHM.
 
-### Utilized Artificial Intelligence (AI) Model
-
-DIHM은 강력한 imaging tool이지만, 몇개의 limitation이 존재한다. 인공지능은 이런 한계에 breakthrough를 제공한다. 내 연구에서는 CAE랑 CNN을 사용했으며, 연구를 통해서 dataset을 생성해야 하는 문제를 해결하기 위해 현재는 physics driven unsupervised learning을 연구하고 있다. CAE는 unsupervised learning으로서, 적혈구 사진을 input으로 학습시킨 CAE모델은 latent space에서 뽑아낸 feature를 사용해 각도를 학습시키거나 data augmentation에 사용되었다. 아래 사진은 사용된 network중 1개의 schemetic이다.
+<br>For the self-supervised CAE model, a CAE model trained with red blood cell images can use features extracted from the latent space to predict angles or be used for data augmentation.
 <img src="/Research/figures/AI1.png" alt= "CAE model">
 
-적혈구 연구에서 CNN network는 input으로 적혈구의 image, output으로 적혈구의 각도 라벨을 주어서 세포의 orientation을 예측하는데 사용된다. 아래 사진은 1개의 figure다. (여기 AI2 figure 넣고)
+CNNs can be used to analyze red blood cell images to predict their orientation. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
 <img src="/Research/figures/AI2.png" alt= "CNN model">
 
-The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we need an unsupervised learning method. (현재 연구 중)
-
-
-<!--
-* A design and structure with customizability in mind
-* A clean, unobstrusive top navigation bar
-* A landing page template for showcasing the most important content on your website
-* Optimized for compatibility with most reading tools such as [Pocket](https://getpocket.com), [Instapaper](https://www.instapaper.com) and [Feedly](https://feedly.com/).
-* Subtle animations on UI elements that give visual feedback when interacting with the page
-* Over 500 scalable vector icons, courtesy of [Font Awesome](https://fontawesome.com/v4.7.0/)
--->
-<!-- Additional features to follow -->
-<!-- * A blog archives page, to allow easy access to old blog entries -->
-<!-- * Multiple color schemes, accessible via the `@import` directive 
-
-Check out the [README](https://github.com/nicoelayda/celeste#readme) for more details.
-
-### Browser support
-
-Celeste is by preference a forward-thinking project. It is best viewed on the latest versions of Chrome, Safari, Firefox and Microsoft Edge.
-
-### Download
-
-Celeste is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/nicoelayda/celeste) for downloads, bug reports, and features requests.
-
--->
+The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a self-supervised learning method to predict the features of an object.
