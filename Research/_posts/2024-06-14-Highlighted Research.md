@@ -10,6 +10,7 @@ title: Research Portfolio
 
 <hr>
 
+<h2> Exploring Digital In-line Holographic Microscopy (DIHM) </h2>
 ### Exploring Digital In-line Holographic Microscopy (DIHM)
 
 Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Especially, DIHM setup is straightforward and compact due to its single beam path. By numerically reconstructing the depth-wise information from holographic images, one can obtain the 3D positions and 2D in-focus intensity images of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. Using a focus function, the particle depth with the highest focus value is identified as the z position.
@@ -18,26 +19,26 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
 <div style="display: flex; align-items: center;gap: 10px;">
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/DIHMsetup.png" alt="Experimental setup" style="width: 250px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">1. Experimental setup</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">1. Experimental Setup</figcaption>
   </figure>
-  <div style="display: flex; flex-direction: column;gap: 10px;">
+  <div style="display: flex; flex-direction: column;gap: 30px;">
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image3.gif" alt="Acquired images" style="width: 210px; height: auto; margin-bottom: 30px; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">2. Acquired images</figcaption>
+      <figcaption style="font-size: 0.9em; color: #555;">2. Acquired Images</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
       <img src="/Research/figures/image5.gif" alt="Numerical reconstruction" style="width: 250px; height: auto; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">3. Numerical reconstruction</figcaption>
+      <figcaption style="font-size: 0.9em; color: #555;">3. Numerical Reconstruction</figcaption>
     </figure>
   </div>
   <div style="display: flex; flex-direction: column;gap: 10px;">
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image6.jpeg" alt="Acquired images" style="width: 185px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
+      <img src="/Research/figures/image6.jpeg" alt="Positioning of x,y" style="width: 185px; height: auto; margin-bottom: 10px; display: block; margin: 0 auto;">
       <figcaption style="font-size: 0.9em; color: #555;">4. Positioning of x,y</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-      <img src="/Research/figures/image8.gif" alt="Numerical reconstruction" style="width: 275px; height: auto; display: block; margin: 0 auto;">
-      <figcaption style="font-size: 0.9em; color: #555;">5. Depth-wise positioning</figcaption>
+      <img src="/Research/figures/image8.gif" alt="Depth-wise Positioning" style="width: 275px; height: auto; display: block; margin: 0 auto;">
+      <figcaption style="font-size: 0.9em; color: #555;">5. Depth-wise Positioning</figcaption>
     </figure>
   </div>
 </div>
@@ -46,12 +47,20 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
 
 ### Utilized Machine Learning (ML) Model
 
-With the aid of recent advances in machine learning (ML) techniques, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. Convolutional autoencoder (CAE) and convolutional neural network (CNN) is utilized to learn and predict the feature of the images acquired from DIHM.
+With the aid of recent advances in machine learning (ML) techniques, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> is utilized to learn and predict the feature of the images acquired from DIHM.
 
-<br>For the self-supervised CAE model, a CAE model trained with red blood cell images can use features extracted from the latent space to predict angles or be used for data augmentation.
-<img src="/Research/figures/AI1.png" alt= "CAE model">
+<br>For the self-supervised CAE model, a CAE model trained with red blood cell (RBC) images can use features extracted from the latent space to predict angles or be used for data augmentation.
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/AI1.png" alt= "CAE model">
+  <figcaption style="font-size: 0.9em; color: #555;">1. CAE for Extracting Angle Features of RBCs </figcaption>
+</figure>
+
 
 <br>CNNs can be used to analyze red blood cell images to predict their orientation. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
-<img src="/Research/figures/AI2.png" alt= "CNN model">
 
-<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset, which requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a self-supervised learning method to predict the features of an object.
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/AI2.png" alt= "CNN model">
+  <figcaption style="font-size: 0.9em; color: #555;">2. CNN to Learn and Predict the Orientation of RBCs</figcaption>
+</figure>
+
+<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset. It requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a self-supervised learning method to predict the features of an object.
