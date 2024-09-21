@@ -34,7 +34,9 @@ In this project, I focused primarily on <strong>idea conceptualization</strong>,
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
 <br> In this project, we utilized a CNN-based supervised learning approach to predict the out-of-plane angles of flowing RBCs. One of the primary challenges we encountered was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
-<br><div style="text-align: center;"><span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span></div>
+<div style="text-align: center;">
+  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span>
+</div>
 <br>Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
 
 <div style="display: flex; align-items: center;gap: 10px;">
