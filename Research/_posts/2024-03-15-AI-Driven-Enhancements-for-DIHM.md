@@ -37,7 +37,7 @@ In this project, I focused primarily on <strong>idea conceptualization</strong>,
 <div style="text-align: center;">
   <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span>
 </div>
-<br>Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
+Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
 
 <div style="display: flex; align-items: center;gap: 10px;">
   <figure style="margin: 0; text-align: center;">
