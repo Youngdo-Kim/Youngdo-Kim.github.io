@@ -52,7 +52,7 @@ title: About Me
     </ol>
     <div style="margin-left: 20px;">
         <p>The joy and fulfillment of elucidating the principles of a <a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">physical phenomenon</a> I discovered for the first time were enough to lead me down the path of a researcher.
-        Throughout this journey, I mastered DIHM to obtain depth-wise information through numerical reconstruction and learned to use machine learning. The core of <a href="https://youngdo-kim.github.io/research/2024/03/15/introducing-celeste/">my research</a> is a biomedical imaging technique that measures the velocity fields and orientation of red blood cells. Currently, I am working on 3D object morphology reconstruction using neural fields with a single image, employing unsupervised learning techniques.</p>
+        Throughout this journey, I mastered DIHM to obtain depth-wise information through numerical reconstruction and learned to use machine learning. The core of <a href="https://youngdo-kim.github.io/research/2024/03/15/AI-Driven Enhancements for DIHM/">my research</a> is a biomedical imaging technique that measures the velocity fields and orientation of red blood cells. Currently, I am working on 3D object morphology reconstruction using neural fields with a single image, employing unsupervised learning techniques.</p>
     </div>
     
 </section>
