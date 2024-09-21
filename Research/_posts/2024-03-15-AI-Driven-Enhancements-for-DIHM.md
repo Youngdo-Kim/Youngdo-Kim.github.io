@@ -64,8 +64,9 @@ Furthermore, we established that the angles obtained from the half-full revoluti
   <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
 </figure>
 <br>
-<h2> Research 3. <br> 3D Morphology Reconstruction Using a Physics-Driven Neural Network from a Single DIHM Image</h2>
+<h2> Research 3. <br> 3D Morphology Reconstruction Using a Neural Fields from a Single DIHM Image</h2>
 
 Ongoing project
 
-<br>
+<br>Although previous studies had reached a new state with the aid of AI in DIHM field, the fundamental limitations of DIHM remain unsolved. 이미지로 얻는 과정중 잃어버린 위상 정보 때문에 DIHM은 twin-image problem이 발생한다. twin image problem은 numerical reconstruction에 의한 depth-wise 분석에 converging or diverging하는 ㄱreal image에 반대 방향인 conjugate signal이 생기며, image의 resolution과 quality가 크게 저하된다. In addition, data-driven approach인 supervised learning은 generalization 능력이 부족해서 연구 대상을 바꿀 때마다 새로운 dataset을 생성해야 한다. Self-supervised learning은 이 문제에 대한 좋은 대안이 된다.
+우리는 self-supervised learning이자 Physics driven approch로서, network에 얻어진 output feature를 beam propagation을 통해서 target object image으로 mapping시켜 두 이미지를 비교하면서 network를 갱신한다. Network는 coordinate-based neural network로 implicit representation을 사용하여 물체의 3D structure를 학습시킨다. 학습된 네트워크는...
