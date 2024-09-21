@@ -29,13 +29,13 @@ The biggest challenge in this research was measuring the out-of-plane angle θ, 
 
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
 
-In this project, I focused primarily on <strong>idea conceptualization, experimental setup, and analyzing RBC tumbling.
+In this project, I focused primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
 <br>
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
 <br> In this project, we utilized a CNN-based supervised learning approach to predict the out-of-plane angles of flowing RBCs. One of the primary challenges we encountered was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
-<span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span>
-Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
+<br><div style="text-align: center;"><span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span></div>
+<br>Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
 
 <div style="display: flex; align-items: center;gap: 10px;">
   <figure style="margin: 0; text-align: center;">
@@ -54,14 +54,14 @@ Furthermore, we established that the angles obtained from the half-full revoluti
   </div>
 </div>
 
-
-We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, we visualized the flow dynamics of red blood cells in a sudden expansion channel. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
+<br>
+<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, we visualized the flow dynamics of red blood cells in a sudden expansion channel. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow4.png" alt= "Result">
   <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
 </figure>
-
+<br>
 <h2> Research 3. <br> 3D Morphology Reconstruction Using a Physics-Driven Neural Network from a Single DIHM Image</h2>
 
 Ongoing project
