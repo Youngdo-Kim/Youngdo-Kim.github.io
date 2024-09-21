@@ -3,7 +3,7 @@ layout: post
 title: The Catalyst for My Research Career
 ---
 
-> 세면대에서 코피를 흘리다 발견한 이 현상은 나를... 나를 연구자의 길로 인도해주신 김형수 교수님께 감사드린다.
+> 코피가 나서 변기에서 지혈을 하다가 혈액 방울에 의해 생기는 jet가 일관된 방향성을 띠는 것을 발견한 것이 연구의 시작이었다. 내가 발견한 물리현상을 내가 연구할 수 있다는 낭만은 나에게 무엇과도 비교할 수 없는 귀중한 경험이었다. 나를 연구자의 길로 인도해주신 김형수 교수님께 감사드린다.
 
 ### Research 6. <br> Symmetry breaking of Worthington jets by gradients in liquid pool depth
 Published as a co-author, Physics of Fluids (2022/12)
@@ -39,4 +39,4 @@ Published as a co-author, Physics of Fluids (2022/12)
   </figure>
 </div>
 
-<br><b>Publication:</b> Lee, Y., Shin, S., Choi, G., Jeon, H., <b> Kim, Y.</b>, and Kim, H. (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth. Phys. Fluids 32, 112104.https://doi.org/10.1063/5.0028067
+<p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Lee, Y., Shin, S., Choi, G., Jeon, H., <b> Kim, Y.</b>, and Kim, H. (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth. Phys. Fluids 32, 112104.https://doi.org/10.1063/5.0028067</p>
