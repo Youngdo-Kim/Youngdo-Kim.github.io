@@ -3,7 +3,9 @@ layout: post
 title: The Catalyst for My Research Career
 ---
 
-> My first research started with a question that arose while trying to stop a nosebleed in the sink: why does the Worthington jet created by falling blood droplets exhibit a consistent directionality? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping the phenomenon and appreciating the beauty of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
+<div class="message">
+My first research started with a question that arose while trying to stop a nosebleed in the sink: why does the Worthington jet created by falling blood droplets exhibit a consistent directionality? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping the phenomenon and appreciating the beauty of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
+</div>
 
 <h2> Research 6. <br> Symmetry breaking of Worthington jets by gradients in liquid pool depth </h2>
 Published as a co-author, Physics of Fluids (2020/11)
