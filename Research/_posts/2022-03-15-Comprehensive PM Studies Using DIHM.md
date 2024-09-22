@@ -11,8 +11,7 @@ As environmental pollution intensifies, interest and research in particulate mat
 
 <h2> Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves </h2>
 
-<p>Published as a co-author, Journal of Environmental Management (2023/04)<br>In this project, I focused primarily on <strong>formal analysis</strong>.</p>
-
+Published as a co-author, Journal of Environmental Management (2023/04)<br>In this project, I focused primarily on <strong>formal analysis</strong>.
 
 <br>나뭇잎 연구에서는 PM이 식물 가까이에 접근하면서 식물의 Trichome에 접근하면 점점 빨라지는 속도장을 DIHM으로 가시화했다. 가시화 결과 Trichome에 접근할 수록 뾰족한 trichome에 의해 강화된 전기장 때문에 PM의 속도가 점점 빨라짐을 알 수 있다.
 
