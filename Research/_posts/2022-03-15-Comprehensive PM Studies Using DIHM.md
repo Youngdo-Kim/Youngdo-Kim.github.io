@@ -12,7 +12,7 @@ As environmental pollution intensifies, interest and research in particulate mat
 ## Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
 
 <p style="font-size: 1em; text-align: right;">Published as a co-author, Journal of Environmental Management (2023/04)</p>
-<p style="margin-top: 0;">In this project, I focused primarily on <strong>formal analysis</strong>.</p>
+<p style="margin-top: 0;line-height: 1;">In this project, I focused primarily on <strong>formal analysis</strong>.</p>
 
 
 <br>
