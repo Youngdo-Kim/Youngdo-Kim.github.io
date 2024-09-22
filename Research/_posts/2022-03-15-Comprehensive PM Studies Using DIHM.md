@@ -6,13 +6,13 @@ excerpt_separator: <!--more-->
 ---
 
 <div class="message">
-환경오염이 심해지면서 particulate matter에 대한 관심과 연구가 점점 커지고 있다. 여기에서는 DIHM을 이용해서 식물에 settling하는 PM의 dynamics를 연구하고 물에 떠다니는 PM의 농도를 측정하는 방법을 개발하였다. 여기서는 공저자로서 실험 셋업 개발이나 formal analysis에 기여하며 DIHM 기술 습득과 AI model을 익히는 유용한 기회였다.
+As environmental pollution intensifies, interest and research in particulate matter (PM) are growing. In these studies, we used DIHM to investigate the dynamics of PM settling on plants and developed a method to measure the concentration of PM suspended in water. As a co-author, I contributed to experiment design and formal analysis, making it a valuable opportunity to learn DIHM technology and supervised machine learning models.
 </div>
 
 ## Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
 
-Published as a co-author, Journal of Environmental Management (2023/04)
-<br>
+<p style="font-size: 0.8em; text-align: right;">Published as a co-author, Journal of Environmental Management (2023/04)</p>
+In this project, I focused primarily on <strong>formal analysis</strong>.
 <br>
 나뭇잎 연구에서는 PM이 식물 가까이에 접근하면서 식물의 Trichome에 접근하면 점점 빨라지는 속도장을 DIHM으로 가시화했다. 가시화 결과 Trichome에 접근할 수록 뾰족한 trichome에 의해 강화된 전기장 때문에 PM의 속도가 점점 빨라짐을 알 수 있다.
 
