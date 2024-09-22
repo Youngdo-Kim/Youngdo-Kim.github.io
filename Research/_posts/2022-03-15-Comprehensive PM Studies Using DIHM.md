@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 As environmental pollution intensifies, interest and research in particulate matter (PM) are growing. In these studies, we used DIHM to investigate the dynamics of PM settling on plants and developed a method to measure the concentration of PM suspended in water. As a co-author, I contributed to experiment design and formal analysis, making it a valuable opportunity to learn DIHM technology and supervised machine learning models.
 </div>
 
-## Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves
+<h2> Research 4. <br>Visualizing Faster PM Deposition on Trichome-Rich Plant Leaves </h2>
 
 <p>Published as a co-author, Journal of Environmental Management (2023/04)<br>In this project, I focused primarily on <strong>formal analysis</strong>.</p>
 
