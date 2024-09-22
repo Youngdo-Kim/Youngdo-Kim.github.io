@@ -6,7 +6,7 @@ title: Research Portfolio
 <hr style='border : 1.5px solid navy;'>
 
 <div class="message">
-This page chronicles the journey of research under the guidance of <a href="http://bbrc.postech.ac.kr/page/member01">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me. I always eager to discussing fascinating ideas and new perspectives.
+This page chronicles the journey of research under the guidance of <a href="http://bbrc.postech.ac.kr/page/member01">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me. I am always eager to discuss fascinating ideas and new perspectives.
 </div>
 
 <hr>
@@ -47,7 +47,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
 
 <h2> Utilized Machine Learning (ML) Model </h2>
 
-With the aid of recent advances in artificial intelligence, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> is utilized to learn and predict the feature of the images acquired from DIHM.
+With the aid of recent advances in artificial intelligence, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> are utilized to learn and predict the features of the images acquired from DIHM.
 
 <br>For the self-supervised CAE model, a CAE model trained with red blood cell (RBC) images can use features extracted from the latent space to predict angles or be used for data augmentation.
 <figure style="margin: 0; text-align: center;">
