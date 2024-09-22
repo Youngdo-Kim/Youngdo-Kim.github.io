@@ -3,13 +3,13 @@ layout: post
 title: The Catalyst for My Research Career
 ---
 
-> 코피가 나서 세면대에서 지혈을 하다가 떨어지는 혈액 방울에 의해 생기는 jet가 왜 일관된 방향성을 띠는지 의문을 가진 것이 연구의 시작이었다. 자신이 발견한 물리현상을 연구할 수 있는 기회는 연구자의 낭만이다. 이 연구를 통해서 나는 두가지를 목표를 얻었다. 내 이론적 토대는 이 현상을 해석하는데 필요한 수준보다 뒤쳐저 있어서 연구를 완전하게 이해하기 어려웠다. 그러나 이렇게 부족한 채 가만히 있지 않을 것이라고 다짐해서 유체역학을 배우는 기계공학과로 진학했다. 또한, 주저자의 위치에서 연구를 주도해보고 싶다는 목표가 생겼다. 6년간의 노력으로 두 가지를 모두 이룰 수 있게 되었다. 호기심과 열정을 간직한 연구의 여정은 계속될 것이다.
+> My first research started with a question that arose while trying to stop a nosebleed in the sink: why does the Worthington jet created by falling blood droplets exhibit a consistent directionality? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping the phenomenon and appreciating the beauty of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
 
-### Research 6. <br> Symmetry breaking of Worthington jets by gradients in liquid pool depth
+<h2> Research 6. <br> Symmetry breaking of Worthington jets by gradients in liquid pool depth </h2>
 Published as a co-author, Physics of Fluids (2020/11)
-<br>이 연구에서는 idea conceptualization과 experiment design, qualitative analysis에 기여했다.
+<br>In this project, I focused primarily on <strong>idea conceptualization</strong>, <strong>experimental design</strong>, and <strong>qualitative analysis</strong>.
 
-<br><br> asymmetric한 substrate에 형성된 bath에 물방울이 떨어지면 항상 물방울은 shallow한 방향으로 튄다. 이 현상은 크게 세가지 단계로 나누어 설명할 수 있다. 첫번째는 cavity 생성 단계다. 이 단계에서는 symmetric한 substrate에서 생성되는 dimple과 똑같이 symmetric하게 crater가 형성된다. 
+<br> When a droplet falls into a bath on an asymmetric substrate, it consistently bounces back toward the shallow side. This phenomenon can be broken down into three main stages. The first stage is the cavity formation stage, where a crater forms symmetrically, similar to the dimple created on a symmetric substrate.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
@@ -26,7 +26,7 @@ Published as a co-author, Physics of Fluids (2020/11)
   </figure>
 </div>
 
-Cavity의 반경이 최대로 커지면 capillary wave가 수면을 따라 전파하면서 cavity가 붕괴되는데, small amplitude waves 가정과 linear wave theory에 의해 capillary wave speed는 루트(tanh(depth))에 proportional하다. 그러므로 깊이가 깊은 오른쪽 wave 속도가 얕은 왼쪽 wave 속도보다 빠르다. 이렇게 다른 속도는 momentum conservation에 의해 inclined jet를 발생시킨다.
+<br>The second stage is the cavity collapse stage. When the cavity reaches the maximum diameter, a capillary wave propagates through the dimple surface and the cavity starts to collapse. Under the assumption of small amplitude waves and linear wave theory, the speed of the capillary wave is proportional to \( \sqrt{\tanh(h)} \), where h is the shortest distance between the cavity surface and the bottom substrate. Consequently, the propagation speed of the capillary wave on the right side is faster than that on the left. This speed difference triggers an inclined jet protrusion due to momentum conservation in the final jet formation stage. We demonstrated that the experimental results align with the trends derived from the model.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
