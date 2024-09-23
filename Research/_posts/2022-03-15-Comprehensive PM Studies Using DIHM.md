@@ -38,10 +38,10 @@ Published as a co-author, Journal of Environmental Management (2023/04)<br>In th
   <img src="/Research/figures/Leaf4.jpg" alt="Velocity distribution" style="width: auto; height: auto; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">4. Settling velocity graph by PM diameter</figcaption>
 </figure>
-<br><b>Publication:</b> Kim, J., Kim, J., <b>Kim, Y.</b>, Go, T., and Lee, S. J. (2023). Accelerated settling velocity of airborne particulate matter on hairy plant leaves. J. Environ. Manage. 332, 117313. doi:10.1016/j.jenvman.2023.117313
+<p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Kim, J., Kim, J., <b>Kim, Y.</b>, Go, T., and Lee, S. J. (2023). Accelerated settling velocity of airborne particulate matter on hairy plant leaves. J. Environ. Manage. 332, 117313. doi:10.1016/j.jenvman.2023.117313</p>
 <br>
 
-## Research 5. <br> Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios
+## Research 5. <br> Smartphone-based holographic measurement of polydisperse suspended particulate matter (PM) with various mass concentration ratios
 
 Published as a co-author, Scientific Reports (2022/12)
 <br>
@@ -53,8 +53,8 @@ Published as a co-author, Scientific Reports (2022/12)
     <div class="text">
         
         <p>
-          This project aimed to replace expensive conventional particulate matter (PM) measuring devices with a smartphone-based solution. Using DIHM and artificial intelligence,
-          we predicted the PM concentration in a solution containing a mixture of fine PM (approximately 1.2 micrometers) and coarse PM (7.6 micrometers).
+          This project aimed to replace expensive conventional PM measuring devices with a smartphone-based solution. Using DIHM and machine learning,
+          we predicted the PM concentration in a solution containing a mixture of fine PM (around 1.2 micrometers) and coarse PM (7.6 micrometers).
           I was responsible for the optical setup and sample preparation. We were able to create the setup for under $400 using a 3D printer and a Samsung smartphone.
           An object produces fringe patterns, and when these fringe patterns accumulate, they form a speckle pattern.
         </p>
@@ -77,5 +77,5 @@ Published as a co-author, Scientific Reports (2022/12)
   </figure>
 </div>
 
-<br><b>Publication:</b> Kim, J., <b>Kim, Y.</b>, Howard, K. J. and Lee, S. J. (2022). Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios. Sci. Rep. 12, 22609. https://doi.org/10.1038/s41598-022-27215-6
+<p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Kim, J., <b>Kim, Y.</b>, Howard, K. J., and Lee, S. J. (2022). Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios. Sci. Rep. 12, 22609. https://doi.org/10.1038/s41598-022-27215-6</p>
 
