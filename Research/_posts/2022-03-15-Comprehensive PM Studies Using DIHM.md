@@ -56,7 +56,7 @@ Published as a co-author, Scientific Reports (2022/12)<br>In this project, I foc
     <div class="text">
         
         <p>
-          This project aimed to replace expensive conventional PM measuring devices with a smartphone-based solution. Using DIHM and machine learning, we predicted the PM concentration in a solution containing a mixture of fine PM (1.2 micrometers) and coarse PM (7.6 micrometers). When a light source interacts with an object, it produces fringe patterns, which, when accumulated, form a speckle pattern. These speckle patterns were used to predict the concentrations of coarse and fine PMs through a machine-learning model. This model was trained exclusively on images of single concentrations to predict the concentrations of coarse and fine PM from images of a polydisperse solution.
+          This project aimed to replace expensive conventional PM measuring devices with a smartphone-based solution. Using DIHM and machine learning, we predicted the PM concentration in a solution containing a mixture of fine PM (1.2 micrometer) and coarse PM (7.6 micrometer). When a light source interacts with an object, it produces fringe patterns, which, when accumulated, form a speckle pattern. These speckle patterns were used to predict the concentrations of coarse and fine PMs through a machine-learning model. This model was trained exclusively on images of single concentrations to predict the concentrations of coarse and fine PM from images of a polydisperse solution.
         </p>
     </div>
 </div>
