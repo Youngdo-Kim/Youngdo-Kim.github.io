@@ -45,8 +45,8 @@ title: About Me
     <h2>Research Interests</h2>
     <ol>
         <li><strong>Biomedical Imaging:</strong> Developing a technique to analyze the three-dimensional (3D) orientation and morphology of cells from <strong>digital in-line holographic microscopy (DIHM)</strong></li>
-        <li><strong>Machine Learning:</strong> Applying <strong>supervised</strong> and <strong>unsupervised learnings</strong> to predict cell characteristics and reconstruct object morphology</li>
         <li><strong>Fluid Mechanics:</strong> Analyzing the interactions between fine particles, such as <strong>droplets</strong>, <strong>biological cells</strong>, and <strong>particulate matter (PM)</strong>, with their surrounding fluids</li>
+        <li><strong>Machine Learning:</strong> Applying <strong>supervised</strong> and <strong>unsupervised learnings</strong> to predict cell characteristics and reconstruct object morphology</li>
 
         
     </ol>
