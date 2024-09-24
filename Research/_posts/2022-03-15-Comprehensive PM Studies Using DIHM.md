@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 As environmental pollution intensifies, interest and research in PM are growing. In these studies, we used DIHM to investigate the dynamics of PM settling on plants and developed a method to measure the concentration of PM suspended in water. As a co-author, I contributed to experiment design and formal analysis, making it a valuable opportunity to learn DIHM technology and supervised machine learning models.
 </div>
 
-<h2> Research 4. <br>Accelerated settling velocity of airborne PM on hairy plant leaves</h2>
+<h2> Research 4. <br><a href="https://www.sciencedirect.com/science/article/pii/S0301479723001019">Accelerated settling velocity of airborne PM on hairy plant leaves</a></h2>
 
 Published as a co-author, Journal of Environmental Management (2023/04)<br>In this project, I focused primarily on <strong>formal analysis</strong>.
 
@@ -44,7 +44,7 @@ The theoretical velocity of free-falling PM reaches the settling velocity when t
 <p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Kim, J., Kim, J., <b>Kim, Y.</b>, Go, T., and Lee, S. J. (2023). Accelerated settling velocity of airborne particulate matter on hairy plant leaves. J. Environ. Manage. 332, 117313. doi:10.1016/j.jenvman.2023.117313</p>
 <br>
 
-<h2>Research 5. <br> Smartphone-based holographic measurement of polydisperse suspended PM with various mass concentration ratios</h2>
+<h2>Research 5. <br><a href="https://www.nature.com/articles/s41598-022-27215-6">Smartphone-based holographic measurement of polydisperse suspended PM with various mass concentration ratios</a></h2>
 
 Published as a co-author, Scientific Reports (2022/12)<br>In this project, I focused primarily on <strong>optical setup</strong> and <strong>sample preparation</strong>.
 <br>
