@@ -11,7 +11,7 @@ My first research started with a question that arose while trying to stop a nose
 Published as a co-author, Physics of Fluids (2020/11)
 <br>In this project, I focused primarily on <strong>idea conceptualization</strong>, <strong>experimental design</strong>, and <strong>qualitative analysis</strong>.
 
-<br>When a droplet falls into a bath on an asymmetric substrate, it consistently bounces back toward the shallow side. This phenomenon can be broken down into three main stages. The first stage is the cavity formation stage, where a crater forms symmetrically, similar to the dimple created on a symmetric substrate.
+When a droplet falls into a bath on an asymmetric substrate, it consistently bounces back toward the shallow side. This phenomenon can be broken down into three main stages. The first stage is the cavity formation stage, where a crater forms symmetrically, similar to the dimple created on a symmetric substrate.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
