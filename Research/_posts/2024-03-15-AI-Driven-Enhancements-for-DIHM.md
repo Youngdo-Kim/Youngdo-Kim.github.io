@@ -30,8 +30,8 @@ The biggest challenge in this research was <strong>measuring the out-of-plane an
 
 
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
-
-In this project, I contributed to the project, primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
+Co-author of Manuscript Under Revision
+<br>In this project, I contributed to the project, primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
 
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
