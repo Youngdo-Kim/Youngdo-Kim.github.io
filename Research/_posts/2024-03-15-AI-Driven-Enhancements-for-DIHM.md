@@ -35,9 +35,9 @@ In this project, I contributed to the project, primarily on <strong>idea concept
 <br>
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
-<br> A CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
+A CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
 <div style="text-align: center;">
-  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / <span style="text-decoration: overline;">(k + 1/k)</span> t)</span>
+  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / <span style="font-size: smaller;">(r + <sub>1</sub>/r)</span> t)</span>
 </div>
 <!--<div style="text-align: center;">
   <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (k + 1/k) t)</span>
@@ -62,16 +62,15 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 </div>
 
 <br>
-<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we <strong>developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image</strong>.
+<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow4.png" alt= "Result">
   <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
 </figure>
 <br>
-<h2> Research 3. <br> 3D Morphology Reconstruction Using a Neural Fields from a Single DIHM Image</h2>
+<h2> Research 3. <br> 3D Morphology Reconstruction Using a Neural Fields from a Single DIHM Image - Ongoing Project</h2>
 
-Ongoing project
 <br>Although previous studies have reached a new state with the aid of AI in DIHM field, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises when numerical reconstruction leads to the generation of a conjugate signal that diverges or converges in the opposite direction to the real image during depth-wise analysis, significantly degrading the resolution and quality of the image.
 <br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Self-supervised learning presents a promising alternative to this issue.
-<br>In this project, a <strong>physics-driven and self-supervised learning approach is utilized</strong> to address these limitations. A coordinate-based neural network with implicit representation is trained to learn the 3D structure of the object. The input consists of coordinates, while the output represents the real part of the corresponding refractive index. These output features are then mapped to the target object image through a forward model which is the angular spectrum method. The network is trained to minimize the difference between the simulated image and the target image. <strong>The goal of the model is to reconstruct the 3D refractive index of an object from a single image.</strong>
+<br>In this project, a <strong>physics-driven and self-supervised learning approach is utilized to address these limitations</strong>. A coordinate-based neural network with implicit representation is trained to learn the 3D structure of the object. The input consists of coordinates, while the output represents the real part of the corresponding refractive index. These output features are then mapped to the target object image through a forward model which is the angular spectrum method. The network is trained to minimize the difference between the simulated image and the target image. <strong>The goal of the model is to reconstruct the 3D refractive index of an object from a single image.</strong>
