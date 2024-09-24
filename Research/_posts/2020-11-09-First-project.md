@@ -40,7 +40,7 @@ When a droplet falls into a bath on an asymmetric substrate, it consistently bou
     <img src="/Research/figures/drop4.jpeg" alt="Evolution of cavity deformation" style="width: 550px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">4. Evolution of cavity deformation</figcaption>
   </figure>
-  <figure style="margin: '20px 0 0 0'; text-align: center;">
+  <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/drop5.jpeg" alt="Fine PM concentration prediction" style="width: 300px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">5. Comparison between jet inclination and theoretical model angle</figcaption>
   </figure>
