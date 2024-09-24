@@ -6,10 +6,12 @@ title: AI-Driven Enhancements for DIHM
 <h2> Research 1. <br> <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of a red blood cell (RBC) using a DIHM</a> </h2>
 
 Published as a co-first author, Biosensors and Bioelectronics (2023/06)
+As a lead author, I took charge of all aspects of the project.
+<br>
 
-Despite their completely different morphology and rheological properties, similar Hagen-Poiseuille flows are observed in the channel flow from both a spherical bead and a healthy human red blood cell. However, red blood cells with varying membrane rigidity exhibit distinctive tumbling motions under shear flow. Therefore, a deeper and more precise analysis of an object’s physical properties or flow phenomena in fluid mechanics can be achieved by observing its orientations rather than just the velocity fields.
+Despite their completely different morphology and rheological properties, similar Hagen-Poiseuille flows are observed in the channel flow from both a spherical bead and a healthy human red blood cell. However, red blood cells with varying membrane rigidity exhibit distinctive tumbling motions under shear flow. Therefore, a deeper and more <strong>precise analysis of an object’s physical properties</strong> or flow phenomena in fluid mechanics <strong>can be achieved by observing its orientations</strong> rather than just the velocity fields.
 
-The biggest challenge in this research was measuring the out-of-plane angle θ, which is difficult to accurately determine from a single-intensity image. Therefore, this angle θ is predicted using a data-driven deep learning approach. To obtain the precise ground-truth angles, RBCs were trapped in polydimethylsiloxane (PDMS), a type of silicone. By meticulously manipulating the PDMS sample with a 4-axis optical stage, we were able to create datasets of RBCs with known precise out-of-plane angles.
+The biggest challenge in this research was <strong>measuring the out-of-plane angle θ</strong>, which is difficult to accurately determine from a single-intensity image. Therefore, this angle θ is predicted using a data-driven deep learning approach. To obtain the precise ground-truth angles, RBCs were trapped in polydimethylsiloxane (PDMS), a type of silicone. By meticulously manipulating the PDMS sample with a 4-axis optical stage, we were able to create datasets of RBCs with known precise out-of-plane angles.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBC1.png" alt= "Experimental setup">
@@ -29,14 +31,17 @@ The biggest challenge in this research was measuring the out-of-plane angle θ, 
 
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
 
-In this project, I focused primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
+In this project, I contributed to the project, primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
 <br>
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
-<br> In this project, we utilized a CNN-based supervised learning approach to predict the out-of-plane angles of flowing RBCs. One of the primary challenges we encountered was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
+<br> A CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
 <div style="text-align: center;">
-  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (r + 1/r) t)</span>
+  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / <span style="text-decoration: overline;">(k + 1/k)</span> t)</span>
 </div>
+<!--<div style="text-align: center;">
+  <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / (k + 1/k) t)</span>
+</div>-->
 Furthermore, we established that the angles obtained from the half-full revolution image set, interpreted through the Jeffery equation, serve as the ground truth out-of-plane angle.
 
 <div style="display: flex; align-items: center;gap: 10px;">
@@ -57,7 +62,7 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 </div>
 
 <br>
-<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, we visualized the flow dynamics of red blood cells in a sudden expansion channel. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
+<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we <strong>developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image</strong>.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow4.png" alt= "Result">
@@ -67,7 +72,6 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 <h2> Research 3. <br> 3D Morphology Reconstruction Using a Neural Fields from a Single DIHM Image</h2>
 
 Ongoing project
-
-<br>Although previous studies have reached a new state with the aid of AI in DIHM field, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the twin-image problem. This problem arises when numerical reconstruction leads to the generation of a conjugate signal that diverges or converges in the opposite direction to the real image during depth-wise analysis, significantly degrading the resolution and quality of the image.
-<br>Additionally, the data-driven approach of supervised learning lacks generalization capabilities, necessitating the creation of new datasets each time the research subject changes. Self-supervised learning presents a promising alternative to this issue.
-<br>We employ a self-supervised learning and physics-driven approach, where the output features obtained by the network are mapped to the target object image through beam propagation. The network is updated by comparing the two images. The network utilizes a coordinate-based neural network with implicit representation to learn the 3D structure of the object. We are focusing on the convergence of the network.
+<br>Although previous studies have reached a new state with the aid of AI in DIHM field, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises when numerical reconstruction leads to the generation of a conjugate signal that diverges or converges in the opposite direction to the real image during depth-wise analysis, significantly degrading the resolution and quality of the image.
+<br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Self-supervised learning presents a promising alternative to this issue.
+<br>In this project, a <strong>physics-driven and self-supervised learning approach is utilized</strong> to address these limitations. A coordinate-based neural network with implicit representation is trained to learn the 3D structure of the object. The input consists of coordinates, while the output represents the real part of the corresponding refractive index. These output features are then mapped to the target object image through a forward model which is the angular spectrum method. The network is trained to minimize the difference between the simulated image and the target image. <strong>The goal of the model is to reconstruct the 3D refractive index of an object from a single image.</strong>
