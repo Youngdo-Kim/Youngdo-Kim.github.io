@@ -6,7 +6,7 @@ title: AI-Driven Enhancements for DIHM
 <h2> Research 1. <br> <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of a red blood cell (RBC) using a DIHM</a> </h2>
 
 Published as a co-first author, Biosensors and Bioelectronics (2023/06)
-As a lead author, I took charge of all aspects of the project.
+<br>As a lead author, I took charge of all aspects of the project.
 <br>
 
 Despite their completely different morphology and rheological properties, similar Hagen-Poiseuille flows are observed in the channel flow from both a spherical bead and a healthy human red blood cell. However, red blood cells with varying membrane rigidity exhibit distinctive tumbling motions under shear flow. Therefore, a deeper and more <strong>precise analysis of an object’s physical properties</strong> or flow phenomena in fluid mechanics <strong>can be achieved by observing its orientations</strong> rather than just the velocity fields.
@@ -32,10 +32,10 @@ The biggest challenge in this research was <strong>measuring the out-of-plane an
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
 
 In this project, I contributed to the project, primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
-<br>
+
 <br>In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
-A CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
+CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling motion of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
 <div style="text-align: center;">
   <span style="font-family: 'Times New Roman', serif;">tan θ = r tan(γ̇ / <span style="font-size: smaller;">(r + <sub>1</sub>/r)</span> t)</span>
 </div>
