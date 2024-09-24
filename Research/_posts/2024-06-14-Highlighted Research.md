@@ -13,7 +13,7 @@ This page chronicles the journey of research under the guidance of <a href="http
 
 <h2> Exploring Digital In-line Holographic Microscopy (DIHM) </h2>
 
-Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Especially, DIHM setup is straightforward and <strong>compact</strong> due to its <strong>single beam path</strong>. By numerically reconstructing the depth-wise information from holographic images, one can obtain the <strong>3D positions</strong> and <strong>2D in-focus intensity images</strong> of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. Using a focus function, the particle depth with the highest focus value is identified as the z position.
+Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Specifically, DIHM setup is straightforward and <strong>compact</strong> due to its <strong>single beam path</strong>. By numerically reconstructing the depth-wise information from holographic images can be reconstructed to yield the <strong>3D positions</strong> and <strong>2D in-focus intensity images</strong> of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. The focus function identifies the particle depth with the highest focus value as the z position.
 
 
 <div style="display: flex; align-items: center;gap: 10px;">
