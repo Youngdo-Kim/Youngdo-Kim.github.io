@@ -27,8 +27,8 @@ When a droplet falls into a bath on an asymmetric substrate, it consistently bou
     <figcaption style="font-size: 0.9em; color: #555;">3. Droplet impact visualization</figcaption>
   </figure>
 </div>
-
-<div style="text-align: center;">
+abcde
+<div style="text-align: left;">
   <span style="font-family: 'Times New Roman', serif;">
     The second stage is the cavity collapse stage. When the cavity reaches the maximum diameter, a capillary wave propagates through the dimple surface and the cavity starts to collapse. Under the assumption of small amplitude waves and linear wave theory, the speed of the capillary wave is proportional to <span style="font-size: smaller;">√</span>(<span style="text-decoration: overline;">tanh(h)</span>), where h is the shortest distance between the cavity surface and the bottom substrate. Consequently, the propagation speed of the capillary wave on the right side is faster than that on the left. This speed difference triggers an inclined jet protrusion due to momentum conservation in the final jet formation stage. We demonstrated that the experimental results align with the trends derived from the model.
   </span>
