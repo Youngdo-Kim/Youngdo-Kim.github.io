@@ -49,7 +49,7 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
 
 With the aid of recent advances in artificial intelligence, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> are utilized to learn and predict the features of the images acquired from DIHM.
 
-<br>For the self-supervised CAE model, a CAE model trained with red blood cell (RBC) images can use features extracted from the latent space to predict angles or be used for data augmentation.
+For the self-supervised CAE model, the model trained with red blood cell (RBC) images can use features extracted from the latent space to predict angles or be used for data augmentation.
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/AI1.png" alt= "CAE model">
   <figcaption style="font-size: 0.9em; color: #555;">1. CAE for Extracting Angle Features of RBCs </figcaption>
@@ -63,4 +63,4 @@ With the aid of recent advances in artificial intelligence, the combination of M
   <figcaption style="font-size: 0.9em; color: #555;">2. CNN to Learn and Predict the Orientation of RBCs</figcaption>
 </figure>
 
-<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset. It requires significant time and computational cost for data collection and model training. To address this problem, we are currently implementing a <strong>self-supervised learning method</strong> to predict the features from an object image.
+<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset. It requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a <strong>self-supervised learning method</strong> to directly predict the features from an object image.
