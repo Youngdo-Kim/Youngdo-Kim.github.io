@@ -6,7 +6,7 @@ title: Research Portfolio
 <hr style='border : 1.5px solid navy;'>
 
 <div class="message">
-This page chronicles the journey of research under the guidance of <a href="http://bbrc.postech.ac.kr/page/member01">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me. I am always eager to discuss fascinating ideas and new perspectives.
+This page chronicles the journey of research under the guidance of <a href="https://me.postech.ac.kr/page/professor13_en">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me via email at youngdokimi@postech.ac.kr. I am always eager to discuss fascinating ideas and new perspectives.
 </div>
 
 <hr>
