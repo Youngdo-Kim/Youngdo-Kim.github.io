@@ -11,7 +11,7 @@ title: CV
   <h1>Youngdo Kim</h1>
   <p>Undergradute Student at POSTECH</p>
   <div class="contact-info">
-    <a href="/Curriculum Vitae_YoungdoKim.pdf">CV</a>
+    <a href="/Curriculum Vitae_YoungdoKim.pdf">CV.pdf</a>
     <a href="https://scholar.google.com/citations?user=hcQTdngAAAAJ&hl=ko">Google Scholar</a>
     <a href="mailto:[youngdokim@postech.ac.kr]">Email</a>
     
