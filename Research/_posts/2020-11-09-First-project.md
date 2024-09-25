@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Spark of My Research Journey on Fluid Dynamics
+title: The Spark of My Research Journey
 ---
 
 <h2> Research 6. <br> <a href="https://pubs.aip.org/aip/pof/article/32/11/112104/1033346/Symmetry-breaking-of-Worthington-jets-by-gradients">Symmetry breaking of Worthington jets by gradients in liquid pool depth</a> </h2>
