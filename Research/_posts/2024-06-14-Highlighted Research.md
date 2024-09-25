@@ -5,7 +5,9 @@ title: Catalyst for My Research Career
 
 <hr style='border : 1.5px solid navy;'>
 <a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">My first research</a> started in high school with a question that arose while trying to stop a nosebleed at the sink: Why do the falling blood droplets always splash in the same direction? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping the phenomenon and appreciating the beauty of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
-
+<div class="message">
+This page chronicles the journey of research under the guidance of <a href="https://me.postech.ac.kr/page/professor13_en">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me via email at youngdokim@postech.ac.kr. I am always eager to discuss fascinating ideas and new perspectives.
+</div>
 
 <h2>List of Publications</h2>
 Notes: # indicates equally contributing first authors. * indicates the corresponding author(s).
@@ -15,11 +17,6 @@ Notes: # indicates equally contributing first authors. * indicates the correspon
   <li>J. Kim, <strong>Y. Kim</strong>, K. Howard, S. Lee*, Smartphone-based holographic monitoring of polydisperse suspended particulate matter concentrations, Scientific reports 12, 22609 (2022)</li>
   <li>Y. Lee#, S. Shin#, G. Choi, H. Jeon, <strong>Y. Kim</strong>, H. Kim*, Symmetry breaking of Worthington jets by gradients in liquid pool depth, Physics of  Fluids 32, 112104 (2020)</li>
 </ol>
-
-<div class="message">
-This page chronicles the journey of research under the guidance of <a href="https://me.postech.ac.kr/page/professor13_en">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me via email at youngdokim@postech.ac.kr. I am always eager to discuss fascinating ideas and new perspectives.
-</div>
-
 
 <hr>
 <h2> Exploring Digital In-line Holographic Microscopy (DIHM) </h2>
