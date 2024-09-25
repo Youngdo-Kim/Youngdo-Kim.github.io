@@ -3,32 +3,6 @@ layout: post
 title: AI-Driven Enhancements for DIHM
 ---
 
-<h2> Research 1. <br> <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of a red blood cell (RBC) using a DIHM</a> </h2>
-
-Published as a co-first author, Biosensors and Bioelectronics (2023/06)
-<br>As a lead author, I took charge of all aspects of the project.
-<br>
-
-Despite their completely different morphology and rheological properties, similar Hagen-Poiseuille flows are observed in the channel flow from both a spherical bead and a healthy human red blood cell. However, red blood cells with varying membrane rigidity exhibit distinctive tumbling motions under shear flow. Therefore, a deeper and more <strong>precise analysis of an object’s physical properties</strong> or flow phenomena in fluid mechanics <strong>can be achieved by observing its orientations</strong> rather than just the velocity fields.
-
-The biggest challenge in this research was <strong>measuring the out-of-plane angle θ</strong>, which is difficult to accurately determine from a single-intensity image. Therefore, this angle θ is predicted using a data-driven deep learning approach. To obtain the precise ground-truth angles, RBCs were trapped in polydimethylsiloxane (PDMS), a type of silicone. By meticulously manipulating the PDMS sample with a 4-axis optical stage, we were able to create datasets of RBCs with known precise out-of-plane angles.
-
-<figure style="margin: 0; text-align: center;">
-  <img src="/Research/figures/RBC1.png" alt= "Experimental setup">
-  <figcaption style="font-size: 0.9em; color: #555;">1. Experimental Setup</figcaption>
-</figure>
-
-
-<br> The obtained datasets are used by the CAE to extract features of each image. New RBC images are generated using these extracted features to augment the data. The augmented datasets are then fed into CNN, which is trained to minimize the difference between the predicted angle θ and the ground truth out-of-plane angle. The trained CNN predicts the angles with a root mean square error of 4.73°. The figure below shows the process of reconstructing the position and orientation of arbitrary RBCs captured in a single-shot image.
-
-<figure style="margin: 0; text-align: center;">
-  <img src="/Research/figures/RBC3.png" alt= "Result">
-  <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
-</figure>
-
-<p style="font-size: 0.8em; text-align: right;"><br>Publication:</b> <strong>Y. Kim</strong>, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232</p>
-
-
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
 Co-author of Manuscript Under Revision
 <br>In this project, I contributed to the project, primarily on <strong>idea conceptualization</strong>, <strong>experimental setup</strong>, and <strong>analyzing RBC tumbling</strong>.
@@ -68,7 +42,3 @@ Furthermore, we established that the angles obtained from the half-full revoluti
   <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
 </figure>
 <br>
-<h2> Research 3. <br> 3D Morphology Reconstruction Using a Neural Fields from a Single DIHM Image - Ongoing Project</h2>
-Although previous studies have reached a new state with the aid of AI in DIHM field, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises due to the inherent generation of a conjugate signal during numerical reconstruction, which significantly degrades the resolution and quality of the image.
-<br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Self-supervised learning presents a promising alternative to this issue.
-<br>In this project, a <strong>physics-driven and self-supervised learning approach is utilized to address these limitations</strong>. A coordinate-based neural network with implicit representation is trained to learn the 3D structure of the object. The input consists of coordinates, while the output represents the real part of the corresponding refractive index. These output features are then mapped to the target object image through a forward model which is the angular spectrum method. The network is trained to minimize the difference between the simulated image and the target image. <strong>The goal of the model is to reconstruct the 3D refractive index of an object from a single image.</strong>
