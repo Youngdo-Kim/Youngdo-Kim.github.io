@@ -42,4 +42,4 @@ The second stage is the cavity collapse stage. When the cavity reaches the maxim
   </figure>
 </div>
 
-<p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Lee, Y., Shin, S., Choi, G., Jeon, H., <b> Kim, Y.</b>, and Kim, H. (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth. Phys. Fluids 32, 112104.https://doi.org/10.1063/5.0028067</p>
+<p style="font-size: 0.8em; text-align: right;"><br><b>Publication:</b> Lee, Y.#, Shin, S.#, Choi, G., Jeon, H., <b> Kim, Y.</b>, and Kim, H. (2020). Symmetry breaking of Worthington jets by gradients in liquid pool depth. Phys. Fluids 32, 112104.https://doi.org/10.1063/5.0028067</p>
