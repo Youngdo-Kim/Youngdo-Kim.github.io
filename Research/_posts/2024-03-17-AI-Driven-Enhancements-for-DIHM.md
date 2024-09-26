@@ -25,9 +25,35 @@ The biggest challenge in this research was <strong>measuring the out-of-plane an
   <img src="/Research/figures/RBC3.png" alt= "Result">
   <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
 </figure>
+<br>
+<p style="font-size: 0.8em; text-align: right;"><b>Publication:</b> <strong>Y. Kim</strong>, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232</p>
 
-<p style="font-size: 0.8em; text-align: right;"><br>Publication:</b> <strong>Y. Kim</strong>, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232</p>
+<!--
+<h2> Research 1. <br> <a href="https://www.sciencedirect.com/science/article/pii/S0956566323001744">AI-based analysis of 3D position and orientation of a red blood cell (RBC) using a DIHM</a> </h2>
 
+Published as a co-first author, Biosensors and Bioelectronics (2023/06)
+<br>As a lead author, I took charge of all aspects of the project.
+<br>
+
+Despite their completely different morphology and rheological properties, similar Hagen-Poiseuille flows are observed in the channel flow from both a spherical bead and a healthy human red blood cell. However, red blood cells with varying membrane rigidity exhibit distinctive tumbling motions under shear flow. Therefore, a deeper and more <strong>precise analysis of an object’s physical properties</strong> or flow phenomena in fluid mechanics <strong>can be achieved by observing its orientations</strong> rather than just the velocity fields.
+
+The biggest challenge in this research was <strong>measuring the out-of-plane angle θ</strong>, which is difficult to accurately determine from a single-intensity image. Therefore, this angle θ is predicted using a data-driven deep learning approach. To obtain the precise ground-truth angles, RBCs were trapped in polydimethylsiloxane (PDMS), a type of silicone. By meticulously manipulating the PDMS sample with a 4-axis optical stage, we were able to create datasets of RBCs with known precise out-of-plane angles.
+
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/RBC1.png" alt= "Experimental setup">
+  <figcaption style="font-size: 0.9em; color: #555;">1. Experimental Setup</figcaption>
+</figure>
+
+
+<br> The obtained datasets are used by the CAE to extract features of each image. New RBC images are generated using these extracted features to augment the data. The augmented datasets are then fed into CNN, which is trained to minimize the difference between the predicted angle θ and the ground truth out-of-plane angle. The trained CNN predicts the angles with a root mean square error of 4.73°. The figure below shows the process of reconstructing the position and orientation of arbitrary RBCs captured in a single-shot image.
+
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/RBC3.png" alt= "Result">
+  <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
+</figure>
+<br>
+<p style="font-size: 0.8em; text-align: right;"><b>Publication:</b> <strong>Y. Kim</strong>, J. Kim, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232</p>
+-->
 
 <h2> Research 2. <br> AI-based analysis of 3D position and orientation of red blood cells in a channel flow using a DIHM </h2>
 Co-author of Manuscript Under Revision
