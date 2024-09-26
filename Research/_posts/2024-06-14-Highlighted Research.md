@@ -16,11 +16,12 @@ Notes: # indicates equally contributing first authors. * indicates the correspon
 <h1 style="font-size: 30px;">Catalyst for My Research Career</h1>
 <a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">My first research</a> started in high school with a question that arose while trying to stop a nosebleed at the sink: Why do the falling blood droplets always splash in the same direction? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping a phenomenon I would later understand to be a function of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
 
+<hr>
 <div class="message">
 This page chronicles the journey of research under the guidance of <a href="https://me.postech.ac.kr/page/professor13_en">Dr. Sang Joon Lee</a> and <a href="https://hyoungsookimm.wixsite.com/filkaist">Dr. Hyoungsoo Kim</a>. For more information about my research, feel free to contact me via email at youngdokim@postech.ac.kr. I am always eager to discuss fascinating ideas and new perspectives.
 </div>
 
-<hr>
+
 <h2> Exploring Digital In-line Holographic Microscopy (DIHM) </h2>
 
 Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Specifically, DIHM setup is straightforward and <strong>compact</strong> due to its <strong>single beam path</strong>. By numerically reconstructing the depth-wise information from holographic images can be reconstructed to yield the <strong>3D positions</strong> and <strong>2D in-focus intensity images</strong> of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. The focus function identifies the particle depth with the highest focus value as the z position.
