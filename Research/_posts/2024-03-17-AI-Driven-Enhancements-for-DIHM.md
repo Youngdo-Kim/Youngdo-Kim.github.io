@@ -37,7 +37,7 @@ Co-author of Manuscript in preparation
 In our previous research, we focused on analyzing the orientation of static RBCs. For the next step, we aimed to utilize a CNN model trained on static RBC datasets to <strong>predict the orientations of flowing RBCs in the microchannel</strong>. However, due to low prediction accuracy, it became clear that the training dataset should be replaced with images acquired from the channel flow.
 
 <figure style="margin: 0; text-align: center;">
-  <img src="/Research/figures/RBCflow5.gif" alt= "Result">
+  <img src="/Research/figures/RBCflow5.gif" alt="Result" style="display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em; color: #555;">1. Acquired Images from the Microchannel</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Furthermore, we established the angles from the half-a-revolution image set, int
   <figcaption style="font-size: 0.9em; color: #555;">2. Experimental Setup and the Jeffery Equation Fitting</figcaption>
 </figure>
 
-<br>The parameters of the Jeffery equation fitted from the experimental data showed a similar trend to the theoretical parameter values. This result supports the validity of the calculated out-of-plane angle from the Jeffery equation. We trained the CNN model using the obtained dataset to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
+<br>The parameters of the Jeffery equation fitted from the experimental data showed a similar trend to the theoretical parameter values. This result supports the validity of the calculated out-of-plane angle from the Jeffery equation. We trained the CNN model using the obtained dataset to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The trained model predicted the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow7.png" alt= "Result">
