@@ -23,7 +23,7 @@ The biggest challenge in this research was <strong>measuring the out-of-plane an
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBC3.png" alt= "Result">
-  <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">2. Process of Acquiring Positions and Orientations of RBC, Scale Bar = 20μm</figcaption>
 </figure>
 <br>
 <p style="font-size: 0.8em; text-align: right;"><b>Publication:</b> <strong>Y. Kim#</strong>, J. Kim#, E. Seo, S. Lee*, "AI-based analysis of 3D position and orientation of red blood cells using a digital in-line holographic microscopy" Biosensors and Bioelectronics, 2023, 229, 115232 https://doi.org/10.1016/j.bios.2023.115232</p>
@@ -38,7 +38,7 @@ In our previous research, we focused on analyzing the orientation of static RBCs
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow5.gif" alt="Result" style="display: block; margin: 0 auto;">
-  <figcaption style="font-size: 0.9em; color: #555;">1. Acquired Images from a Top View of the Microchannel, Scale Bar = 10μm</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">1. Acquired Images from a Top View of the Microchannel</figcaption>
 </figure>
 
 CNN-based supervised learning approach was utilized to predict the out-of-plane angles of flowing RBCs. One of the primary challenges was obtaining the ground truth out-of-plane angle θ for the RBCs within the microchannel. We demonstrated that by employing additional side-view imaging, we could effectively analyze the tumbling angle of the RBCs under shear rates using the <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1922.0078">Jeffery equation</a>, which was originally derived to describe the flipping motions of ellipsoidal particles in shear flows.
@@ -47,14 +47,14 @@ Furthermore, we established the angles from the half-a-revolution image set, int
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow6.png" alt= "Result">
-  <figcaption style="font-size: 0.9em; color: #555;">2. Experimental Setup and the Jeffery Equation Fitting</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">2. Experimental Setup and the Jeffery Equation Fitting, Scale Bar = 10μm</figcaption>
 </figure>
 
 <br>The parameters of the Jeffery equation fitted from the experimental data showed a similar trend to the theoretical parameter values. This result supports the validity of the calculated out-of-plane angle from the Jeffery equation. We trained the CNN model using the obtained dataset to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The trained model predicted the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow7.png" alt= "Result">
-  <figcaption style="font-size: 0.9em; color: #555;">3. The Trend of Fitted Parameters, the Prediction Performance of Model and Visualization of RBCs in Sudden Expansion Channel</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">3. Validation of the Jeffery Equation, the Prediction Performance of Model and Visualization of RBCs in Sudden Expansion Channel</figcaption>
 </figure>
 
 
