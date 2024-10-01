@@ -24,7 +24,7 @@ This page chronicles the journey of research under the guidance of <a href="http
 
 <h2> Exploring Digital In-line Holographic Microscopy (DIHM) </h2>
 
-Digital holographic microscopy is a robust 3D imaging technique used for examining various microscale objects and microfluidic issues. Specifically, DIHM setup is straightforward and <strong>compact</strong> due to its <strong>single beam path</strong>. By numerically reconstructing the depth-wise information from holographic images can be reconstructed to yield the <strong>3D positions</strong> and <strong>2D in-focus intensity images</strong> of objects. These reconstructed images are combined into a single image to determine the x and y positions of particles. The focus function identifies the particle depth with the highest focus value as the z position.
+Digital holographic microscopy is a robust 3D imaging technique for examining microscale objects and microfluidic issues. Specifically, DIHM setup is straightforward and <strong>compact</strong> due to its <strong>single beam path</strong>. By numerically reconstructing the depth-wise information from holographic images can be reconstructed to yield the <strong>3D positions</strong> and <strong>2D in-focus intensity images</strong> of objects. These reconstructed images are combined into a single image to determine the particles' x and y positions. The focus function identifies the particle depth with the highest focus value as the z position.
 
 
 <div style="display: flex; align-items: center;gap: 10px;">
@@ -54,11 +54,11 @@ Digital holographic microscopy is a robust 3D imaging technique used for examini
   </div>
 </div>
 
-<p style="font-size: 0.8em; text-align: right;"><br>The above figure pertains to 'T.Go, H. Byeon, S.Lee*, "Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning" Biosensors and Bioelectronics, 2018, 103, 12-18 https://doi.org/10.1016/j.bios.2017.12.020</p>
+<p style="font-size: 0.8em; text-align: right;"><br>The above figure pertains to T.Go, H. Byeon, S.Lee*, Label-free sensor for automatic identification of erythrocytes using digital in-line holographic microscopy and machine learning, Biosensors and Bioelectronics 103 (2018), 12-18 https://doi.org/10.1016/j.bios.2017.12.020</p>
 
 <h2> Utilized Machine Learning (ML) Model </h2>
 
-With the aid of recent advances in artificial intelligence, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> are utilized to learn and predict the features of the images acquired from DIHM.
+With the aid of recent advances in artificial intelligence, the combination of ML and DIHM techniques gives rise to a breakthrough in solving the technical limitations of conventional DIHM. In my studies, <strong>Convolutional autoencoder (CAE)</strong> and <strong>convolutional neural network (CNN)</strong> are utilized to learn and predict the features of images acquired from DIHM.
 
 For the self-supervised CAE model, the model trained with red blood cell (RBC) images can use features extracted from the latent space to predict angles or be used for data augmentation.
 <figure style="margin: 0; text-align: center;">
@@ -67,11 +67,11 @@ For the self-supervised CAE model, the model trained with red blood cell (RBC) i
 </figure>
 
 
-<br>CNNs can be used to analyze red blood cell images to predict their orientation. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
+<br>CNNs can be used to analyze red blood cell images to predict their orientation angle. By training the model with labeled images, it learns to accurately determine the angle of the cells, which can be crucial for medical diagnostics.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/AI2.png" alt= "CNN model">
-  <figcaption style="font-size: 0.9em; color: #555;">2. CNN to Learn and Predict the Orientation of RBCs</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">2. CNN to Learn and Predict the Orientation Angles of RBCs</figcaption>
 </figure>
 
-<br>The supervised learning model partially overcame the limitations of DIHM. However, each time we study new samples, we must rebuild the dataset. It requires significant time and computational cost for data collection and model training. To address this problem, we are implementing a <strong>self-supervised learning method</strong> to directly predict the features from an object image.
+<br>The supervised learning model partially overcame the limitations of DIHM. However, each time new samples are studied, the dataset must be rebuilt. This process requires significant time and computational cost for data collection and model training. To address this problem, a <strong>self-supervised learning method</strong> is being implemented to directly predict the features from an object image.
