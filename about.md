@@ -56,12 +56,12 @@ title: CV
 <section>
     <h2>Research Experience</h2>
     <ul class="experience">
-        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2024 - Present
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul. 2024 - Present
             <ul class="experience-list">
               <li><em>Using a coordinate-based physics-driven neural network to reconstruct the 3D morphology of microparticles with DIHM</em></li>
             </ul>
         </li>
-        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul 2020 - Dec 2022
+        <li><strong>Undergraduate Researcher</strong>, <a href="http://bbrc.postech.ac.kr/">Future Fluid and Biomimetics Laboratory </a> <br> (PI: Prof. Sang Joon Lee), POSTECH, Jul. 2020 - Dec. 2022
             <ul class="experience-list">
                 <li><em>AI-based analysis of 3D rotational and translational dynamics on red blood cells using DIHM</em></li>
                 <li><em>AI-based analysis of 3D orientation and position of red blood cells using DIHM</em></li>
@@ -71,7 +71,7 @@ title: CV
             </ul>
         </li>
         <li><strong>Research Intern</strong>, <a href="https://hyoungsookimm.wixsite.com/filkaist">Fluid and Interface Laboratory </a> (PI: Prof. Hyoungsoo Kim),
-          <br> Korea Advanced Institute of Science and Technology, Mar 2017 - Feb 2018
+          <br> Korea Advanced Institute of Science and Technology, Mar. 2017 - Feb. 2018
             <ul class="experience-list"> 
               <li><em>Analysis of Worthington jet dynamics in oblique bath</em></li>
             </ul>
@@ -82,12 +82,12 @@ title: CV
 <section>
     <h2>Other Experience</h2>
     <ul class="experience">
-        <li><strong>Student Mentor Program</strong>, POSTECH, Feb 2020 - Jun 2020 & Feb 2022 - Jun 2022
+        <li><strong>Student Mentor Program</strong>, POSTECH, Feb. 2020 - Jun. 2020 & Feb. 2022 - Jun. 2022
             <ul class="experience-list">
                 <li><em>Teaching undergraduate mentees solid mechanics</em></li>
             </ul>
         </li>
-        <li><strong>Military Service</strong>, Korea Army, Dec 2022 - Jun 2024
+        <li><strong>Military Service</strong>, Korea Army, Dec. 2022 - Jun. 2024
             <ul class="experience-list">
                 <li><em>Landmine removal operations and explosive handling</em></li>
                 <li><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
