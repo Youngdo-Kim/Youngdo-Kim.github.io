@@ -91,6 +91,7 @@ title: CV
             <ul class="experience-list">
                 <li><em>Landmine removal operations and explosive handling</em></li>
                 <li><em>Attending military AI competition 2023, Ministry of National Defense</em></li>
+                <li><em>Peer counseling for company members, Sep. 2023 - Feb. 2024</em></li>
             </ul>
         </li>
     </ul>
