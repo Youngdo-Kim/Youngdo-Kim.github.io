@@ -119,21 +119,22 @@ Although previous studies have reached a new area in DIHM field with the aid of 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing3.jpg" alt="Perilla leaf" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">3. Intensity image of RBC</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">3. Intensity image<br>of RBC</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing4.gif" alt="Acquired images" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">4. Conventional Reconstruction</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">4. Conventional<br>Reconstruction</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing5.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">5.MorpHoloNet Reconstruction </figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">5.MorpHoloNet<br>Reconstruction </figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding Phase Map</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding<br>Phase Map</figcaption>
   </figure>
 </div>
 
-<br>Currently, I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
-<br><p style="font-size: 0.8em; text-align: right;">The figures of research 3 are related to J. Kim, <strong>Y. Kim</strong>, H. S. Lee, E. Seo, & S. J. Lee. (2024). Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. arXiv:2409.20013 [cs.CV].</p>
+I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
+<br>
+<p style="font-size: 0.8em; text-align: right;">The figures of research 3 are related to J. Kim, <strong>Y. Kim</strong>, H. S. Lee, E. Seo, & S. J. Lee. (2024). Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. arXiv:2409.20013 [cs.CV].</p>
