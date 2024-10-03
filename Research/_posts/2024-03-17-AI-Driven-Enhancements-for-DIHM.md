@@ -104,13 +104,12 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 
 Although previous studies have reached a new area in DIHM field with the aid of AI, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises due to the inherent generation of a conjugate signal during numerical reconstruction, which significantly degrades the resolution and quality of the image.
 <br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Physical-guided training presents a promising alternative to this issue.
-<br>In this project, a <strong>physics-driven and coordinate-based neural network with implicit representation is trained to reconstruct the 3D structure of the object from a single holographic image. <strong>MorphHolonet's goal is reconstructing the 3D refractive index of a phase-only object from an intensity image.</strong> The input consists of coordinates, while the output represents the real part of the corresponding refractive index.
+<br>In this project, a <strong>physics-driven and coordinate-based neural network</strong> with implicit representation is trained to reconstruct the 3D structure of the object from a single holographic image. <strong>MorphHolonet's goal is reconstructing the 3D refractive index of a phase-only object from an intensity image.</strong> The input consists of coordinates, while the output represents the real part of the corresponding refractive index.
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/ongoing1.png" alt= "Result">
-  <figcaption style="font-size: 0.9em; color: #555;">1. Structure of a Neural Network</figcaption>
+  <figcaption style="font-size: 0.9em; color: #555;">1. Structure of the MorpHoloNet</figcaption>
 </figure>
-<br>These output features are then mapped to the target object image through a forward model using the angular spectrum method. The network is trained to minimize the difference between the simulated and target images.
-However, reconstructing the 3D structure from a single image of an object is a severely ill-posed problem. A decrease in the loss function between the simulated and target images during training does not necessarily guarantee that the model makes accurate predictions. To greatly reduce the chances of incorrect predictions, the MorpHoloNet is pre-trained using a 3D Gaussian distribution at the approximate location where the object will be reconstructed. Providing hints to the model significantly enhances its convergence and accuracy.
+<br>These output refractive index fields are then mapped to the target object image through a forward model using the angular spectrum method. The network is trained to minimize the difference between the simulated and target images. However, reconstructing the 3D structure from a single image of an object is a severely ill-posed problem. A decrease in the loss function between the simulated and target images during training does not necessarily guarantee that the model makes accurate predictions. <strong>To greatly reduce the chances of incorrect predictions, the MorpHoloNet is pre-trained using a 3D Gaussian distribution at the approximate location where the object will be reconstructed.</strong> Providing hints to the model significantly enhances its convergence and accuracy.
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/ongoing2.png" alt= "Result">
   <figcaption style="font-size: 0.9em; color: #555;">2. Training Strategy of the Neural Network</figcaption>
@@ -131,9 +130,10 @@ However, reconstructing the 3D structure from a single image of an object is a s
     <figcaption style="font-size: 0.9em; color: #555;">5.MorpHoloNet Reconstruction </figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
-    <img src="/Research/figures/onging6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+    <img src="/Research/figures/ongoing6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding Phase Map</figcaption>
   </figure>
 </div>
 
-<br>I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
+<br>Currently, I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
+<br><p style="font-size: 0.8em; text-align: right;">J. Kim, <strong>Y. Kim</strong>, H. S. Lee, E. Seo, & S. J. Lee. (2024). Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. arXiv:2409.20013 [cs.CV].</p>
