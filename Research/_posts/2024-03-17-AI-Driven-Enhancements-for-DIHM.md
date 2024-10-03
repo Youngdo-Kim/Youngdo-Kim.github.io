@@ -124,15 +124,15 @@ However, reconstructing the 3D structure from a single image of an object is a s
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing4.gif" alt="Acquired images" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">2. Conventional Reconstruction</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">4. Conventional Reconstruction</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing5.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">3.MorpHoloNet Reconstruction </figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">5.MorpHoloNet Reconstruction </figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/onging6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">4.Corresponding Phase Map</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding Phase Map</figcaption>
   </figure>
 </div>
 
