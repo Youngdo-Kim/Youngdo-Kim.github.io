@@ -100,10 +100,12 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 
 
 <br>
-<h2> Research 3. <br> 3D Morphology Reconstruction Using Neural Fields from a Single DIHM Image - Ongoing Project</h2>
-
+<div class="message">
 Although previous studies have reached a new area in DIHM field with the aid of AI, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises due to the inherent generation of a conjugate signal during numerical reconstruction, which significantly degrades the resolution and quality of the image.
 <br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Physical-guided training presents a promising alternative to this issue.
+</div>
+<h2> Research 3. <br> 3D Morphology Reconstruction Using Neural Fields from a Single DIHM Image - Ongoing Project</h2>
+
 <br>In this project, a <strong>physics-driven and coordinate-based neural network</strong> with implicit representation is trained to reconstruct the 3D structure of the object from a single holographic image. <strong>MorphHolonet's goal is reconstructing the 3D refractive index of a phase-only object from an intensity image.</strong> The input consists of coordinates, while the output represents the real part of the corresponding refractive index.
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/ongoing1.png" alt= "Result">
