@@ -89,7 +89,7 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 </div>
 
 
-<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model was able to predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique that allows for the measurement of the position and orientation of flowing RBCs using only a single image.
+<br>We trained the CNN model using the dataset obtained, aiming to minimize the error between the predicted angles θ and the ground truth out-of-plane angle. The completed model could predict the out-of-plane angle θ with a root mean square error of less than 3.62°. Using this model, <strong>flow dynamics of red blood cells in a sudden expansion channel were visualized</strong>. Ultimately, we developed a technique for measuring the position and orientation of flowing RBCs using only a single image.
 
 <figure style="margin: 0; text-align: center;">
   <img src="/Research/figures/RBCflow4.png" alt= "Result">
@@ -101,6 +101,39 @@ Furthermore, we established that the angles obtained from the half-full revoluti
 
 <br>
 <h2> Research 3. <br> 3D Morphology Reconstruction Using Neural Fields from a Single DIHM Image - Ongoing Project</h2>
+
 Although previous studies have reached a new area in DIHM field with the aid of AI, the fundamental limitations of DIHM remain unsolved. Due to the loss of phase information during the image acquisition process, DIHM experiences the <strong>twin-image problem</strong>. This problem arises due to the inherent generation of a conjugate signal during numerical reconstruction, which significantly degrades the resolution and quality of the image.
-<br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Self-supervised learning presents a promising alternative to this issue.
-<br>In this project, a <strong>physics-driven and self-supervised learning approach is utilized to address these limitations</strong>. A coordinate-based neural network with implicit representation is trained to learn the 3D structure of the object. The input consists of coordinates, while the output represents the real part of the corresponding refractive index. These output features are then mapped to the target object image through a forward model which is the angular spectrum method. The network is trained to minimize the difference between the simulated image and the target image. <strong>The goal of the model is to reconstruct the 3D refractive index of an object from a single image.</strong>
+<br>Additionally, the <strong>data-driven approach of supervised learning lacks generalization capabilities</strong>, necessitating the creation of new datasets each time the research subject changes. Physical-guided training presents a promising alternative to this issue.
+<br>In this project, a <strong>physics-driven and coordinate-based neural network with implicit representation is trained to reconstruct the 3D structure of the object from a single holographic image. <strong>MorphHolonet's goal is reconstructing the 3D refractive index of a phase-only object from an intensity image.</strong> The input consists of coordinates, while the output represents the real part of the corresponding refractive index.
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/ongoing1.png" alt= "Result">
+  <figcaption style="font-size: 0.9em; color: #555;">1. Structure of a Neural Network</figcaption>
+</figure>
+<br>These output features are then mapped to the target object image through a forward model using the angular spectrum method. The network is trained to minimize the difference between the simulated and target images.
+However, reconstructing the 3D structure from a single image of an object is a severely ill-posed problem. A decrease in the loss function between the simulated and target images during training does not necessarily guarantee that the model makes accurate predictions. To greatly reduce the chances of incorrect predictions, the MorpHoloNet is pre-trained using a 3D Gaussian distribution at the approximate location where the object will be reconstructed. Providing hints to the model significantly enhances its convergence and accuracy.
+<figure style="margin: 0; text-align: center;">
+  <img src="/Research/figures/ongoing2.png" alt= "Result">
+  <figcaption style="font-size: 0.9em; color: #555;">2. Training Strategy of the Neural Network</figcaption>
+</figure>
+
+<br>By incorporating prior information, the model can perform real-time, label-free, and non-invasive cell analysis. The RBC below is calculated as phase-only objects.
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/Research/figures/ongoing3.jpg" alt="Perilla leaf" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">3. Intensity image of RBC</figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/Research/figures/ongoing4.gif" alt="Acquired images" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">2. Conventional Reconstruction</figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/Research/figures/ongoing5.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">3.MorpHoloNet Reconstruction </figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/Research/figures/onging6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
+    <figcaption style="font-size: 0.9em; color: #555;">4.Corresponding Phase Map</figcaption>
+  </figure>
+</div>
+
+<br>I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
