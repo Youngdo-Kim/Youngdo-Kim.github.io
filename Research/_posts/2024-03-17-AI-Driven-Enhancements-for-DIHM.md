@@ -131,7 +131,7 @@ Although previous studies have reached a new area in DIHM field with the aid of 
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/Research/figures/ongoing6.gif" alt="Velocity visualization" style="width: 220px; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding<br>Phase Map</figcaption>
+    <figcaption style="font-size: 0.9em; color: #555;">6.Corresponding<br>3D structure</figcaption>
   </figure>
 </div>
 
