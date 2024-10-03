@@ -136,4 +136,4 @@ Although previous studies have reached a new area in DIHM field with the aid of 
 </div>
 
 <br>Currently, I am researching ways to improve the network’s convergence and enhance its ability to reconstruct the morphology of more complex objects.
-<br><p style="font-size: 0.8em; text-align: right;">J. Kim, <strong>Y. Kim</strong>, H. S. Lee, E. Seo, & S. J. Lee. (2024). Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. arXiv:2409.20013 [cs.CV].</p>
+<br><p style="font-size: 0.8em; text-align: right;">The figures of research 3 are related to J. Kim, <strong>Y. Kim</strong>, H. S. Lee, E. Seo, & S. J. Lee. (2024). Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. arXiv:2409.20013 [cs.CV].</p>
