@@ -42,7 +42,7 @@ Perilla (sesame) and pepper leaves, which are widely cultivated in Korea, show d
 
 <h2>Research 5. <br><a href="https://www.nature.com/articles/s41598-022-27215-6">Smartphone-based holographic measurement of polydisperse suspended PM with various mass concentration ratios</a></h2>
 
-Published as a co-author, Scientific Reports (2022/12)<br>In this project, I focused primarily on <strong>optical setup</strong> and <strong>sample preparation</strong>.
+Published as a co-author, Scientific Reports (2022/12)<br>In this project, I focused primarily on <strong>optical setup design</strong> and <strong>sample preparation</strong>.
 <br>
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
     <figure style="margin: 0; text-align: center;">
