@@ -14,7 +14,7 @@ Notes: # indicates equally contributing first authors. * indicates the correspon
 </ol>
 
 <h1 style="font-size: 30px;">Catalyst for My Research Career</h1>
-<a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">My first research</a> started in high school with a question that arose while trying to stop a nosebleed at the sink: Why do the falling blood droplets always splash in the same direction? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping a phenomenon I would later understand to be a function of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid dynamics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
+<a href="https://youngdo-kim.github.io/research/2020/11/09/First-project/">My first research</a> started in high school with a question that arose while trying to stop a nosebleed at the sink: Why do the falling blood droplets always splash in the same direction? As I delved into this topic, I realized that my academic foundation was insufficient for fully grasping a phenomenon I would later understand as a function of fluid dynamics. Therefore, I chose to pursue mechanical engineering to deepen my knowledge of fluid mechanics. Along the way, I also set a goal to conduct research as a lead author. After six years of endeavor, I achieved both aspirations. My research journey, driven by curiosity and passion, will continue.
 
 <hr>
 <div class="message">
