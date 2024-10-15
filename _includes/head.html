@@ -9,7 +9,17 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GC3RE7VYM1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-GC3RE7VYM1');
+</script>
+  
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700" type="text/css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" type="text/css">
